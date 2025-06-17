@@ -1,0 +1,1597 @@
+{
+  "type": "FeatureCollection",
+  "name": "aaws",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 1,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3225",
+        "LINTANG": 4.086564,
+        "BUJUR": 96.275452,
+        "DESA": null,
+        "KECAMATAN": "Pulo Ie",
+        "KAB/KOTA": "Kab. Nagan Raya",
+        "PROVINSI": "Aceh"
+      },
+      "geometry": { "type": "Point", "coordinates": [96.275452, 4.086564] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 2,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3227",
+        "LINTANG": 5.195601,
+        "BUJUR": 96.594356,
+        "DESA": null,
+        "KECAMATAN": "Peudada",
+        "KAB/KOTA": "Kab. Bireun",
+        "PROVINSI": "Aceh"
+      },
+      "geometry": { "type": "Point", "coordinates": [96.594356, 5.195601] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 3,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3208",
+        "LINTANG": 3.524524,
+        "BUJUR": 97.784899,
+        "DESA": null,
+        "KECAMATAN": "Badar",
+        "KAB/KOTA": "Kab. Aceh Tenggara",
+        "PROVINSI": "Aceh"
+      },
+      "geometry": { "type": "Point", "coordinates": [97.784899, 3.524524] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 4,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3031",
+        "LINTANG": 4.827319,
+        "BUJUR": 97.890519,
+        "DESA": "Beusa Merano",
+        "KECAMATAN": "Peureulak",
+        "KAB/KOTA": "Kab. Aceh Timur",
+        "PROVINSI": "Aceh"
+      },
+      "geometry": { "type": "Point", "coordinates": [97.890519, 4.827319] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 5,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STS1001",
+        "LINTANG": 3.492768,
+        "BUJUR": 99.14778,
+        "DESA": "Sei Rejo",
+        "KECAMATAN": "Sei Rampah",
+        "KAB/KOTA": "Kab. Serdang Bedagai",
+        "PROVINSI": "Sumatera Utara"
+      },
+      "geometry": { "type": "Point", "coordinates": [99.14778, 3.492768] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 6,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3209",
+        "LINTANG": 3.297133,
+        "BUJUR": 99.37202,
+        "DESA": "Indra Sakti",
+        "KECAMATAN": "Air Putih",
+        "KAB/KOTA": "Kab. Batubara",
+        "PROVINSI": "Sumatera Utara"
+      },
+      "geometry": { "type": "Point", "coordinates": [99.37202, 3.297133] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 7,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3032",
+        "LINTANG": 3.49709,
+        "BUJUR": 98.90636,
+        "DESA": "Pasar Miring",
+        "KECAMATAN": "Pagar Merbau",
+        "KAB/KOTA": "Kab. Deli Serdang",
+        "PROVINSI": "Sumatera Utara"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.90636, 3.49709] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 8,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3212",
+        "LINTANG": 3.87505,
+        "BUJUR": 98.424967,
+        "DESA": "Cempa",
+        "KECAMATAN": "Hinai",
+        "KAB/KOTA": "Kab. Langkat",
+        "PROVINSI": "Sumatera Utara"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.424967, 3.87505] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 9,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3204",
+        "LINTANG": -0.20194,
+        "BUJUR": 100.3181,
+        "DESA": "Palupuh",
+        "KECAMATAN": "Palupuh",
+        "KAB/KOTA": "Kab. Agam",
+        "PROVINSI": "Sumatera Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.3181, -0.20194] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 10,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3211",
+        "LINTANG": -0.722417,
+        "BUJUR": 100.5976,
+        "DESA": "Sumani",
+        "KECAMATAN": "X Koto Singkarak",
+        "KAB/KOTA": "Kab. Solok",
+        "PROVINSI": "Sumatera Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.5976, -0.722417] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 11,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3205",
+        "LINTANG": -0.54585,
+        "BUJUR": 100.2985,
+        "DESA": "Kapalo Hilalang",
+        "KECAMATAN": "Kayu Tanam",
+        "KAB/KOTA": "Kab. Padang Pariaman",
+        "PROVINSI": "Sumatera Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.2985, -0.54585] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 12,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0319",
+        "LINTANG": -2.073987,
+        "BUJUR": 102.24034,
+        "DESA": "Titian Teras ",
+        "KECAMATAN": "Batang Masumai",
+        "KAB/KOTA": "Kab. Merangin",
+        "PROVINSI": "Jambi"
+      },
+      "geometry": { "type": "Point", "coordinates": [102.24034, -2.073987] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 13,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0318",
+        "LINTANG": -2.432557,
+        "BUJUR": 102.618544,
+        "DESA": "Desa Temenggun ",
+        "KECAMATAN": "Limun",
+        "KAB/KOTA": "Kab. Sarolangun",
+        "PROVINSI": "Jambi"
+      },
+      "geometry": { "type": "Point", "coordinates": [102.618544, -2.432557] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 14,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0344",
+        "LINTANG": -1.290472,
+        "BUJUR": 104.0828,
+        "DESA": "Simpang",
+        "KECAMATAN": "Berbak",
+        "KAB/KOTA": "Kab. Tanjung Jabung Timur",
+        "PROVINSI": "Jambi"
+      },
+      "geometry": { "type": "Point", "coordinates": [104.0828, -1.290472] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 15,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3202",
+        "LINTANG": 0.407183333,
+        "BUJUR": 101.2169333,
+        "DESA": "Kuapan",
+        "KECAMATAN": "Tambang",
+        "KAB/KOTA": "Kab. Kampar",
+        "PROVINSI": "Riau"
+      },
+      "geometry": { "type": "Point", "coordinates": [101.2169333, 0.407183333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 16,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3203",
+        "LINTANG": 1.84561319,
+        "BUJUR": 100.97833333,
+        "DESA": "Rimba Melintang",
+        "KECAMATAN": "Rimba Melintang",
+        "KAB/KOTA": "Kab. Rokan Hilir",
+        "PROVINSI": "Riau"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.97833333, 1.84561319] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 17,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0356",
+        "LINTANG": -0.598066,
+        "BUJUR": 101.48648,
+        "DESA": "Kiliran Jao",
+        "KECAMATAN": "Gunung Toar",
+        "KAB/KOTA": "Kab. Kuantan Singingi",
+        "PROVINSI": "Riau"
+      },
+      "geometry": { "type": "Point", "coordinates": [101.48648, -0.598066] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 18,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0349",
+        "LINTANG": -7.59953,
+        "BUJUR": 109.2452,
+        "DESA": "Bujur lor",
+        "KECAMATAN": "Kroya",
+        "KAB/KOTA": "Kab. Cilacap",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.2452, -7.59953] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 19,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0358",
+        "LINTANG": -7.577065,
+        "BUJUR": 110.716759,
+        "DESA": "Sraten",
+        "KECAMATAN": "Gatak",
+        "KAB/KOTA": "Kab. Sukoharjo",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.716759, -7.577065] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 20,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0357",
+        "LINTANG": -6.734057,
+        "BUJUR": 111.020859,
+        "DESA": "rendole",
+        "KECAMATAN": "rendole",
+        "KAB/KOTA": "Kab. Pati",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [111.020859, -6.734057] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 21,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3019",
+        "LINTANG": -7.11056,
+        "BUJUR": 110.9208,
+        "DESA": "Kalongan",
+        "KECAMATAN": "Purwodadi",
+        "KAB/KOTA": "Kab. Grobogan",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.9208, -7.11056] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 22,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3020",
+        "LINTANG": -6.59639,
+        "BUJUR": 110.6606,
+        "DESA": "Bulu",
+        "KECAMATAN": "Jepara",
+        "KAB/KOTA": "Kab. Jepara",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.6606, -6.59639] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 23,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0350",
+        "LINTANG": -7.661542,
+        "BUJUR": 109.604871,
+        "DESA": "Kantor Kepala Desa Sruweng",
+        "KECAMATAN": "Sruweng",
+        "KAB/KOTA": "Kab. Kebumen",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.604871, -7.661542] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 24,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3022",
+        "LINTANG": -7.52897,
+        "BUJUR": 109.3068,
+        "DESA": "Danaraja",
+        "KECAMATAN": "Banyumas",
+        "KAB/KOTA": "Kab. Banyumas",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.3068, -7.52897] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 25,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3021",
+        "LINTANG": -6.860138,
+        "BUJUR": 111.403998,
+        "DESA": "Bulu",
+        "KECAMATAN": "Rembang",
+        "KAB/KOTA": "Kab. Rembang",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [111.403998, -6.860138] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 26,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3024",
+        "LINTANG": -7.70333,
+        "BUJUR": 110.6058,
+        "DESA": "Semangkak",
+        "KECAMATAN": "Klaten Tengah",
+        "KAB/KOTA": "Kab. Klaten",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.6058, -7.70333] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 27,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3055",
+        "LINTANG": -8.41598,
+        "BUJUR": 115.4201,
+        "DESA": "Desa Singarata",
+        "KECAMATAN": "Rendang",
+        "KAB/KOTA": "Kab. Karang Asem",
+        "PROVINSI": "Bali"
+      },
+      "geometry": { "type": "Point", "coordinates": [115.4201, -8.41598] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 28,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3056",
+        "LINTANG": -8.46083333,
+        "BUJUR": 115.13916667,
+        "DESA": "Desa Buruan",
+        "KECAMATAN": "Penebel",
+        "KAB/KOTA": "Kab. Bangli",
+        "PROVINSI": "Bali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [115.13916667, -8.46083333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 29,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3026",
+        "LINTANG": -8.54216,
+        "BUJUR": 115.441,
+        "DESA": "Desa Dawan Klod",
+        "KECAMATAN": "Dawan",
+        "KAB/KOTA": "Kab. Klungkung",
+        "PROVINSI": "Bali"
+      },
+      "geometry": { "type": "Point", "coordinates": [115.441, -8.54216] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 30,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0321",
+        "LINTANG": -3.096778,
+        "BUJUR": 102.1916389,
+        "DESA": "Tunggang",
+        "KECAMATAN": "Lebong Utara",
+        "KAB/KOTA": "Kab. Lebong",
+        "PROVINSI": "Bengkulu"
+      },
+      "geometry": { "type": "Point", "coordinates": [102.1916389, -3.096778] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 31,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0322",
+        "LINTANG": -3.438154,
+        "BUJUR": 102.19923,
+        "DESA": "Gunung Alam",
+        "KECAMATAN": "Arga Makmur",
+        "KAB/KOTA": "Kab. Bengkulu Utara",
+        "PROVINSI": "Bengkulu"
+      },
+      "geometry": { "type": "Point", "coordinates": [102.19923, -3.438154] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 32,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3001",
+        "LINTANG": -6.171216,
+        "BUJUR": 106.1902,
+        "DESA": "Curug",
+        "KECAMATAN": "Curug",
+        "KAB/KOTA": "Kab. Serang",
+        "PROVINSI": "Banten"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.1902, -6.171216] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 33,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3000",
+        "LINTANG": -6.546103,
+        "BUJUR": 106.3906,
+        "DESA": "Cipanas",
+        "KECAMATAN": "Cipanas",
+        "KAB/KOTA": "Kab. Lebak",
+        "PROVINSI": "Banten"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.3906, -6.546103] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 34,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3002",
+        "LINTANG": -6.523345,
+        "BUJUR": 105.8264,
+        "DESA": "Teluk Lada",
+        "KECAMATAN": "Sobang",
+        "KAB/KOTA": "Kab. Pandeglang",
+        "PROVINSI": "Banten"
+      },
+      "geometry": { "type": "Point", "coordinates": [105.8264, -6.523345] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 35,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0351",
+        "LINTANG": -7.96221,
+        "BUJUR": 110.6933,
+        "DESA": "Karangmojo",
+        "KECAMATAN": "Karangmojo",
+        "KAB/KOTA": "Kab. Gunung Kidul",
+        "PROVINSI": "DI Yogyakarta"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.6933, -7.96221] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 36,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3023",
+        "LINTANG": -7.9072497069002603,
+        "BUJUR": 110.36497536300701,
+        "DESA": "Barongan",
+        "KECAMATAN": "Jetis",
+        "KAB/KOTA": "Kab. Bantul",
+        "PROVINSI": "DI Yogyakarta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [110.364975363007005, -7.90724970690026]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 37,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3034",
+        "LINTANG": 0.495736,
+        "BUJUR": 121.9141,
+        "DESA": "Marisa",
+        "KECAMATAN": "Duhiadaa, Marisa 1",
+        "KAB/KOTA": "Kab. Pohuwato",
+        "PROVINSI": "Gorontalo"
+      },
+      "geometry": { "type": "Point", "coordinates": [121.9141, 0.495736] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 38,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0325",
+        "LINTANG": 0.6995013,
+        "BUJUR": 122.4517,
+        "DESA": "Makmur",
+        "KECAMATAN": "Wonosari ",
+        "KAB/KOTA": "Kab. Boalemo",
+        "PROVINSI": "Gorontalo"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.4517, 0.6995013] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 39,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0342",
+        "LINTANG": 0.799722,
+        "BUJUR": 122.8256,
+        "DESA": "Tolongio",
+        "KECAMATAN": "Anggrek",
+        "KAB/KOTA": "Kab. Gorontalo Utara",
+        "PROVINSI": "Gorontalo"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.8256, 0.799722] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 40,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3004",
+        "LINTANG": -6.82425,
+        "BUJUR": 107.84493,
+        "DESA": "Nagarawangi",
+        "KECAMATAN": "Rancakalong",
+        "KAB/KOTA": "Kab. Sumedang",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [107.84493, -6.82425] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 41,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0354",
+        "LINTANG": -6.92924,
+        "BUJUR": 107.76995,
+        "DESA": "Sayang",
+        "KECAMATAN": "Jatinangor",
+        "KAB/KOTA": "Kab. Sumedang",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [107.76995, -6.92924] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 42,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3006",
+        "LINTANG": -7.49796,
+        "BUJUR": 108.61577,
+        "DESA": "Cibadak",
+        "KECAMATAN": "Banjarsari",
+        "KAB/KOTA": "Kab. Ciamis",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [108.61577, -7.49796] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 43,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS3010",
+        "LINTANG": -6.55324,
+        "BUJUR": 106.74283,
+        "DESA": "Situgede",
+        "KECAMATAN": "Bogor Barat",
+        "KAB/KOTA": "Kab. Bogor",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.74283, -6.55324] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 44,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3007",
+        "LINTANG": -6.43199,
+        "BUJUR": 107.19197,
+        "DESA": "Bojongmangu",
+        "KECAMATAN": "Bojongmangu",
+        "KAB/KOTA": "Kab. Bekasi",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [107.19197, -6.43199] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 45,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3009",
+        "LINTANG": -6.4904,
+        "BUJUR": 107.92409,
+        "DESA": "Baleraja",
+        "KECAMATAN": "Gantar",
+        "KAB/KOTA": "Kab. Indramayu",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [107.92409, -6.4904] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 46,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3008",
+        "LINTANG": -7.00589,
+        "BUJUR": 106.562,
+        "DESA": "Jayanti",
+        "KECAMATAN": "Pelabuhan Ratu",
+        "KAB/KOTA": "Kab. Sukabumi",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.562, -7.00589] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 47,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0348",
+        "LINTANG": -6.82313,
+        "BUJUR": 108.61802,
+        "DESA": "Cipeujeuh Wetan",
+        "KECAMATAN": "Lemahabang",
+        "KAB/KOTA": "Kab. Cirebon",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [108.61802, -6.82313] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 48,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3005",
+        "LINTANG": -7.32476,
+        "BUJUR": 106.41298,
+        "DESA": "Pangumbahan",
+        "KECAMATAN": "Ciracap",
+        "KAB/KOTA": "Kab. Sukabumi",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.41298, -7.32476] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 49,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0345",
+        "LINTANG": 0.390977,
+        "BUJUR": 109.9467,
+        "DESA": "Jl. Raya Ngabang",
+        "KECAMATAN": "Ngabang",
+        "KAB/KOTA": "Kab. Landak",
+        "PROVINSI": "Kalimantan Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.9467, 0.390977] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 50,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3044",
+        "LINTANG": 1.24666,
+        "BUJUR": 109.1666,
+        "DESA": "Sempadung",
+        "KECAMATAN": "Tebas",
+        "KAB/KOTA": "Kab. Sambas",
+        "PROVINSI": "Kalimantan Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.1666, 1.24666] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 51,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0323",
+        "LINTANG": -2.516241,
+        "BUJUR": 110.2169,
+        "DESA": "Kendawangan Kiri",
+        "KECAMATAN": "Kendawangan",
+        "KAB/KOTA": "Kab. Ketapang",
+        "PROVINSI": "Kalimantan Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.2169, -2.516241] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 52,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0346",
+        "LINTANG": 0.865779,
+        "BUJUR": 109.4998,
+        "DESA": "Sebalo",
+        "KECAMATAN": "Bengkayang",
+        "KAB/KOTA": "Kab. Bengkayang",
+        "PROVINSI": "Kalimantan Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.4998, 0.865779] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 53,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3043",
+        "LINTANG": -1.814139,
+        "BUJUR": 115.1714,
+        "DESA": "Rodok",
+        "KECAMATAN": "Dusun Tengah",
+        "KAB/KOTA": "Kab. Barito Timur",
+        "PROVINSI": "Kalimantan Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [115.1714, -1.814139] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 54,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3042",
+        "LINTANG": -2.376861,
+        "BUJUR": 112.2502,
+        "DESA": "Asam Baru",
+        "KECAMATAN": "Danau Seluluk",
+        "KAB/KOTA": "Kab. Seruyan",
+        "PROVINSI": "Kalimantan Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [112.2502, -2.376861] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 55,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3040",
+        "LINTANG": -1.4686694,
+        "BUJUR": 113.0837198,
+        "DESA": "Samba Kahayan",
+        "KECAMATAN": "Tumbang Samba",
+        "KAB/KOTA": "Kab. Katingan",
+        "PROVINSI": "Kalimantan Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [113.0837198, -1.4686694] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 56,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0337",
+        "LINTANG": -3.061743,
+        "BUJUR": 114.1542,
+        "DESA": "Pulang Pisau",
+        "KECAMATAN": "Pande Batu",
+        "KAB/KOTA": "Kab. Pulang Pisau",
+        "PROVINSI": "Kalimantan Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [114.1542, -3.061743] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 57,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3041",
+        "LINTANG": -2.6058,
+        "BUJUR": 112.9551,
+        "DESA": "Pelangsian",
+        "KECAMATAN": "Mentawa Baru Ketapang",
+        "KAB/KOTA": "Kab. Kotawaringin Timur",
+        "PROVINSI": "Kalimantan Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [112.9551, -2.6058] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 58,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3038",
+        "LINTANG": -2.13466,
+        "BUJUR": 115.39008,
+        "DESA": "Hikun",
+        "KECAMATAN": "Tanjung",
+        "KAB/KOTA": "Kab. Tabalong",
+        "PROVINSI": "Kalimantan Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [115.39008, -2.13466] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 59,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3035",
+        "LINTANG": -2.98235,
+        "BUJUR": 114.7351,
+        "DESA": "Ulu Benteng",
+        "KECAMATAN": "Marahaban",
+        "KAB/KOTA": "Kab. Barito Kuala",
+        "PROVINSI": "Kalimantan Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [114.7351, -2.98235] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 60,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3036",
+        "LINTANG": -3.798,
+        "BUJUR": 114.781,
+        "DESA": "Angsau",
+        "KECAMATAN": "Pelaihari",
+        "KAB/KOTA": "Kab. Tanah Laut",
+        "PROVINSI": "Kalimantan Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [114.781, -3.798] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 61,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3037",
+        "LINTANG": -2.85522,
+        "BUJUR": 115.24031,
+        "DESA": "Hariti",
+        "KECAMATAN": "Sungai Raya",
+        "KAB/KOTA": "Kab. Hulu Sungai Selatan",
+        "PROVINSI": "Kalimantan Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [115.24031, -2.85522] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 62,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0338",
+        "LINTANG": -3.339091,
+        "BUJUR": 115.92738,
+        "DESA": "Manunggal",
+        "KECAMATAN": "Karang Bintang",
+        "KAB/KOTA": "Kab. Tanah Bumbu",
+        "PROVINSI": "Kalimantan Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [115.92738, -3.339091] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 63,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3039",
+        "LINTANG": -1.361629,
+        "BUJUR": 116.6565,
+        "DESA": "Waru",
+        "KECAMATAN": "Petung",
+        "KAB/KOTA": "Kab. Penajam Paser Utara",
+        "PROVINSI": "Kalimantan Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [116.6565, -1.361629] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 64,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3057",
+        "LINTANG": -8.3791,
+        "BUJUR": 114.14445,
+        "DESA": "Krajan",
+        "KECAMATAN": "Gambiran",
+        "KAB/KOTA": "Kab. Banyuwangi",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [114.14445, -8.3791] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 65,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3052",
+        "LINTANG": -8.35092806,
+        "BUJUR": 114.04544114399999,
+        "DESA": "Karangharjo",
+        "KECAMATAN": "Glenmore",
+        "KAB/KOTA": "Kab. Banyuwangi",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.045441144, -8.35092806]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 66,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3051",
+        "LINTANG": -7.1739,
+        "BUJUR": 112.0108,
+        "DESA": "Talun",
+        "KECAMATAN": "Sumber Rejo",
+        "KAB/KOTA": "Kab. Bojonegoro",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [112.0108, -7.1739] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 67,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3054",
+        "LINTANG": -8.20778,
+        "BUJUR": 113.4417,
+        "DESA": "Semboro",
+        "KECAMATAN": "Semboro",
+        "KAB/KOTA": "Kab. Jember",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [113.4417, -8.20778] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 68,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0336",
+        "LINTANG": -8.21596,
+        "BUJUR": 113.30183,
+        "DESA": "Kalipepe",
+        "KECAMATAN": "Yosowilangun",
+        "KAB/KOTA": "Kab. Lumajang",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [113.30183, -8.21596] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 69,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0359",
+        "LINTANG": -6.883123,
+        "BUJUR": 112.0136,
+        "DESA": "Tuban",
+        "KECAMATAN": "Merak-urak",
+        "KAB/KOTA": "Kab. Tuban",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [112.0136, -6.883123] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 70,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3053",
+        "LINTANG": -8.05987,
+        "BUJUR": 111.8595,
+        "DESA": "Bolorejo",
+        "KECAMATAN": "Kauman",
+        "KAB/KOTA": "Kab. Tulungagung",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [111.8595, -8.05987] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 71,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0317",
+        "LINTANG": -4.037614,
+        "BUJUR": 103.2654,
+        "DESA": "Alun Dua",
+        "KECAMATAN": "Pagar Alam Utara",
+        "KAB/KOTA": "Kota Pagar Alam",
+        "PROVINSI": "Sumatera Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.2654, -4.037614] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 72,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3046",
+        "LINTANG": -3.3977639,
+        "BUJUR": 104.842417,
+        "DESA": "Sidakersa",
+        "KECAMATAN": "Kayu Agung",
+        "KAB/KOTA": "Kab. Ogan Komering Ilir",
+        "PROVINSI": "Sumatera Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [104.842417, -3.3977639] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 73,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0316",
+        "LINTANG": -3.653785,
+        "BUJUR": 103.7763,
+        "DESA": "Muara Lawai",
+        "KECAMATAN": "Muara Enim",
+        "KAB/KOTA": "Kab. Muara Enim",
+        "PROVINSI": "Sumatera Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.7763, -3.653785] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 74,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0315",
+        "LINTANG": -4.106389,
+        "BUJUR": 104.7581,
+        "DESA": "Gumawang BK 10 ",
+        "KECAMATAN": "Belitang",
+        "KAB/KOTA": "Kab. Oku Timur",
+        "PROVINSI": "Sumatera Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [104.7581, -4.106389] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 75,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0310",
+        "LINTANG": -2.968735,
+        "BUJUR": 106.440384,
+        "DESA": "Rias",
+        "KECAMATAN": "Toboali",
+        "KAB/KOTA": "Kab. Bangka Selatan",
+        "PROVINSI": "Kepulauan Bangka Belitung"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.440384, -2.968735] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 76,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0343",
+        "LINTANG": -3.886134,
+        "BUJUR": 105.426831,
+        "DESA": "Sidomulyo",
+        "KECAMATAN": "Mesuji",
+        "KAB/KOTA": "Kab. Mesuji",
+        "PROVINSI": "Lampung"
+      },
+      "geometry": { "type": "Point", "coordinates": [105.426831, -3.886134] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 77,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3045",
+        "LINTANG": -5.372407,
+        "BUJUR": 105.012726,
+        "DESA": "Wates",
+        "KECAMATAN": "Gading Rejo",
+        "KAB/KOTA": "Kab. Pringsewu",
+        "PROVINSI": "Lampung"
+      },
+      "geometry": { "type": "Point", "coordinates": [105.012726, -5.372407] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 78,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0313",
+        "LINTANG": -4.9450387,
+        "BUJUR": 105.34627,
+        "DESA": "Rejosari",
+        "KECAMATAN": "Seputih Raman",
+        "KAB/KOTA": "Kab. Lampung Tengah",
+        "PROVINSI": "Lampung"
+      },
+      "geometry": { "type": "Point", "coordinates": [105.34627, -4.9450387] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 79,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0314",
+        "LINTANG": -5.60477,
+        "BUJUR": 105.56219,
+        "DESA": "Sidowaluyo",
+        "KECAMATAN": "Sidomulyo",
+        "KAB/KOTA": "Kab. Lampung Selatan",
+        "PROVINSI": "Lampung"
+      },
+      "geometry": { "type": "Point", "coordinates": [105.56219, -5.60477] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 80,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0312",
+        "LINTANG": -5.47765,
+        "BUJUR": 104.68325,
+        "DESA": "Kp.Baru",
+        "KECAMATAN": "Kota Agung",
+        "KAB/KOTA": "Kab. Tanggamus",
+        "PROVINSI": "Lampung"
+      },
+      "geometry": { "type": "Point", "coordinates": [104.68325, -5.47765] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 81,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA4001",
+        "LINTANG": -8.6364,
+        "BUJUR": 116.1707,
+        "DESA": "Montong Are",
+        "KECAMATAN": "Kediri",
+        "KAB/KOTA": "Kab. Lombok Barat",
+        "PROVINSI": "Nusa Tenggara Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [116.1707, -8.6364] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 82,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3028",
+        "LINTANG": -8.75591,
+        "BUJUR": 116.8542,
+        "DESA": "Kuang",
+        "KECAMATAN": "Taliwang",
+        "KAB/KOTA": "Kab. Sumbawa Barat",
+        "PROVINSI": "Nusa Tenggara Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [116.8542, -8.75591] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 83,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0339",
+        "LINTANG": -8.37888,
+        "BUJUR": 116.68908,
+        "DESA": "Sugian",
+        "KECAMATAN": "Sambelia",
+        "KAB/KOTA": "Kab. Lombok Timur",
+        "PROVINSI": "Nusa Tenggara Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [116.68908, -8.37888] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 84,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3030",
+        "LINTANG": -8.5484,
+        "BUJUR": 118.4299,
+        "DESA": "Montebaru",
+        "KECAMATAN": "Woja",
+        "KAB/KOTA": "Kab. Dompu",
+        "PROVINSI": "Nusa Tenggara Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [118.4299, -8.5484] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 85,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3029",
+        "LINTANG": -8.417229,
+        "BUJUR": 117.121,
+        "DESA": "Stowe Brang",
+        "KECAMATAN": "Utan",
+        "KAB/KOTA": "Kab. Sumbawa",
+        "PROVINSI": "Nusa Tenggara Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [117.121, -8.417229] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 86,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0347",
+        "LINTANG": -8.713,
+        "BUJUR": 120.1668,
+        "DESA": "Tangge",
+        "KECAMATAN": "Lembor",
+        "KAB/KOTA": "Kab. Manggarai Barat",
+        "PROVINSI": "Nusa Tenggara Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.1668, -8.713] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 87,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3025",
+        "LINTANG": -10.088618,
+        "BUJUR": 124.230419,
+        "DESA": "Bena",
+        "KECAMATAN": "Amanuban Selatan",
+        "KAB/KOTA": "Kab. Timor Tengah Selatan",
+        "PROVINSI": "Nusa Tenggara Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [124.230419, -10.088618] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 88,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3027",
+        "LINTANG": -9.841951,
+        "BUJUR": 120.635865,
+        "DESA": "Mutunggeding",
+        "KECAMATAN": "Umalulu",
+        "KAB/KOTA": "Kab. Sumba Timur",
+        "PROVINSI": "Nusa Tenggara Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.635865, -9.841951] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 89,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "14083224",
+        "LINTANG": -8.38709,
+        "BUJUR": 140.5165,
+        "DESA": "Garsa Mulya",
+        "KECAMATAN": "Tanah Miring",
+        "KAB/KOTA": "Kab. Merauke",
+        "PROVINSI": "Papua"
+      },
+      "geometry": { "type": "Point", "coordinates": [140.5165, -8.38709] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 90,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3268",
+        "LINTANG": -2.68138889,
+        "BUJUR": 140.80444444,
+        "DESA": "Koya Barat",
+        "KECAMATAN": "Muara Tami",
+        "KAB/KOTA": "Kota. Jayapura",
+        "PROVINSI": "Papua"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [140.80444444, -2.68138889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 91,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0329",
+        "LINTANG": -3.447739,
+        "BUJUR": 119.3741,
+        "DESA": "Tonyaman ",
+        "KECAMATAN": "Binuang ",
+        "KAB/KOTA": "Kab. Polewali Mandar",
+        "PROVINSI": "Sulawesi Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [119.3741, -3.447739] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 92,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0324",
+        "LINTANG": 0.9130949,
+        "BUJUR": 123.126,
+        "DESA": "Tontulow Utara",
+        "KECAMATAN": "Pinogaluman ",
+        "KAB/KOTA": "Kab. Bolaang Mongodow Utara",
+        "PROVINSI": "Sulawesi Utara"
+      },
+      "geometry": { "type": "Point", "coordinates": [123.126, 0.9130949] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 93,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3033",
+        "LINTANG": 0.5745594,
+        "BUJUR": 123.9806955,
+        "DESA": "Mopuya Utara",
+        "KECAMATAN": "Dumoga Utara",
+        "KAB/KOTA": "Kab. Bolaang Mongondow",
+        "PROVINSI": "Sulawesi Utara"
+      },
+      "geometry": { "type": "Point", "coordinates": [123.9806955, 0.5745594] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 94,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0340",
+        "LINTANG": -3.848056,
+        "BUJUR": 119.8264,
+        "DESA": "Timoreng Panua",
+        "KECAMATAN": "Panca Rijang",
+        "KAB/KOTA": "Kab. Sidenreng Rappang",
+        "PROVINSI": "Sulawesi Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [119.8264, -3.848056] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 95,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0330",
+        "LINTANG": -5.46891,
+        "BUJUR": 120.2081,
+        "DESA": "Bontomanai",
+        "KECAMATAN": "Rilau Ale",
+        "KAB/KOTA": "Kab. Bulukumba",
+        "PROVINSI": "Sulawesi Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.2081, -5.46891] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 96,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0331",
+        "LINTANG": -4.62306,
+        "BUJUR": 120.0197222,
+        "DESA": "Selli",
+        "KECAMATAN": "Bengo",
+        "KAB/KOTA": "Kab. Bone",
+        "PROVINSI": "Sulawesi Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.0197222, -4.62306] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 97,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "STA3047",
+        "LINTANG": -5.6710332,
+        "BUJUR": 119.7326972,
+        "DESA": "Balang Toa",
+        "KECAMATAN": "Binamu",
+        "KAB/KOTA": "Kab. Jeneponto",
+        "PROVINSI": "Sulawesi Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [119.7326972, -5.6710332] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 98,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0332",
+        "LINTANG": -4.04574,
+        "BUJUR": 120.0305714,
+        "DESA": "Tancung ",
+        "KECAMATAN": "Tanasitolo",
+        "KAB/KOTA": "Kab. Wajo",
+        "PROVINSI": "Sulawesi Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.0305714, -4.04574] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 99,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0333",
+        "LINTANG": -3.365879,
+        "BUJUR": 120.3142275,
+        "DESA": "Jambu",
+        "KECAMATAN": "Bajo ",
+        "KAB/KOTA": "Kab. Luwu",
+        "PROVINSI": "Sulawesi Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.3142275, -3.365879] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 100,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0326",
+        "LINTANG": 0.4750695,
+        "BUJUR": 119.9745,
+        "DESA": "Tonggolobibi ",
+        "KECAMATAN": "Sojol",
+        "KAB/KOTA": "Kab. Donggala",
+        "PROVINSI": "Sulawesi Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [119.9745, 0.4750695] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 101,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0341",
+        "LINTANG": -1.109908,
+        "BUJUR": 119.9098,
+        "DESA": "Sidondo",
+        "KECAMATAN": "Biromaru",
+        "KAB/KOTA": "Kab. Sigi",
+        "PROVINSI": "Sulawesi Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [119.9098, -1.109908] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 102,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0328",
+        "LINTANG": -0.9891467,
+        "BUJUR": 120.311,
+        "DESA": "Wonosari",
+        "KECAMATAN": "Torue",
+        "KAB/KOTA": "Kab. Parigi Moutong",
+        "PROVINSI": "Sulawesi Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [120.311, -0.9891467] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 103,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0327",
+        "LINTANG": -1.455985,
+        "BUJUR": 122.3416,
+        "DESA": "Cendanapura",
+        "KECAMATAN": "Toili",
+        "KAB/KOTA": "Kab. Banggai",
+        "PROVINSI": "Sulawesi Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.3416, -1.455985] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 104,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0334",
+        "LINTANG": -4.096044,
+        "BUJUR": 122.2374,
+        "DESA": "Mulyasar",
+        "KECAMATAN": "Mowila",
+        "KAB/KOTA": "Kab. Konawe Selatan",
+        "PROVINSI": "Sulawesi Tenggara"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.2374, -4.096044] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 105,
+        "JARINGAN PENGAMATAN": "AAWS",
+        "NO STASIUN": "AAWS0335",
+        "LINTANG": -4.459369,
+        "BUJUR": 122.2099,
+        "DESA": " Ngapaaha",
+        "KECAMATAN": "Tinanggea",
+        "KAB/KOTA": "Kab. Konawe Selatan",
+        "PROVINSI": "Sulawesi Tenggara"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.2099, -4.459369] }
+    }
+  ]
+}

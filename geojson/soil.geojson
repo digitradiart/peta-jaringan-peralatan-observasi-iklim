@@ -1,0 +1,421 @@
+{
+  "type": "FeatureCollection",
+  "name": "soil",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 1,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1013",
+        "LINTANG": 3.616,
+        "BUJUR": 98.78,
+        "DESA": "Sampali",
+        "KECAMATAN": "Percut Sei Tuan",
+        "KAB/KOTA": "Deli Serdang",
+        "PROVINSI": "Sumatera Utara"
+      },
+      "geometry": { "type": "Point", "coordinates": [98.78, 3.616] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 2,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1011",
+        "LINTANG": -0.55,
+        "BUJUR": 100.37,
+        "DESA": "2x11 Kayutanam",
+        "KECAMATAN": "Balai Kamih",
+        "KAB/KOTA": "Padang Pariaman",
+        "PROVINSI": "Sumatera Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [100.37, -0.55] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 3,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1015",
+        "LINTANG": 5.403587,
+        "BUJUR": 95.46497,
+        "DESA": "Indrapuri",
+        "KECAMATAN": "Indrapuri",
+        "KAB/KOTA": "Aceh Besar",
+        "PROVINSI": "Aceh"
+      },
+      "geometry": { "type": "Point", "coordinates": [95.46497, 5.403587] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 4,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1004",
+        "LINTANG": -6.553259,
+        "BUJUR": 106.7428,
+        "DESA": "Situgede",
+        "KECAMATAN": "Bogor Barat",
+        "KAB/KOTA": "Kota Bogor",
+        "PROVINSI": "Jawa Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.7428, -6.553259] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 5,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1002",
+        "LINTANG": -6.9841,
+        "BUJUR": 110.381,
+        "DESA": "Kalibanteng Kulon",
+        "KECAMATAN": "Semarang Barat",
+        "KAB/KOTA": "Kota Semarang",
+        "PROVINSI": "Jawa Tengah"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.381, -6.9841] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 6,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1005",
+        "LINTANG": -2.92731,
+        "BUJUR": 104.77194,
+        "DESA": "Sukamaju",
+        "KECAMATAN": "Sako",
+        "KAB/KOTA": "Kota Palembang",
+        "PROVINSI": "Sumatera Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [104.77194, -2.92731] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 7,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1012",
+        "LINTANG": -0.07489,
+        "BUJUR": 109.1905,
+        "DESA": "Sungai Nipah",
+        "KECAMATAN": "Siantan",
+        "KAB/KOTA": "Mempawah",
+        "PROVINSI": "Kalimantan Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [109.1905, -0.07489] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 8,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1003",
+        "LINTANG": -6.25,
+        "BUJUR": 106.76,
+        "DESA": "Pondok Betung",
+        "KECAMATAN": "Pondok Aren",
+        "KAB/KOTA": "Kota Tangerang Selatan",
+        "PROVINSI": "Banten"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.76, -6.25] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 9,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1006",
+        "LINTANG": -1.601111,
+        "BUJUR": 103.49444,
+        "DESA": "Sei",
+        "KECAMATAN": "Jambi Luar Kota",
+        "KAB/KOTA": "Muaro Jambi",
+        "PROVINSI": "Jambi"
+      },
+      "geometry": { "type": "Point", "coordinates": [103.49444, -1.601111] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 10,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1010",
+        "LINTANG": -7.716165,
+        "BUJUR": 110.3354,
+        "DESA": "Sendangadi",
+        "KECAMATAN": "Mlati",
+        "KAB/KOTA": "Sleman",
+        "PROVINSI": "DI Yogyakarta"
+      },
+      "geometry": { "type": "Point", "coordinates": [110.3354, -7.716165] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 11,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1014",
+        "LINTANG": -3.46225,
+        "BUJUR": 114.84084,
+        "DESA": "Sei. Besar",
+        "KECAMATAN": " Banjarbaru Selatan",
+        "KAB/KOTA": "Kota Banjarbaru",
+        "PROVINSI": "Kalimantan Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [114.84084, -3.46225] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 12,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1009",
+        "LINTANG": -8.6364,
+        "BUJUR": 116.17049,
+        "DESA": "Montong Are",
+        "KECAMATAN": "Kediri",
+        "KAB/KOTA": "Lombok Barat",
+        "PROVINSI": "Nusa Tenggara Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [116.17049, -8.6364] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 13,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1001",
+        "LINTANG": -7.9013888888888895,
+        "BUJUR": 112.59666666666666,
+        "DESA": "Ngijo",
+        "KECAMATAN": "Karang Ploso",
+        "KAB/KOTA": "Malang",
+        "PROVINSI": "Jawa Timur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [112.596666666666664, -7.901388888888889]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 14,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1008",
+        "LINTANG": -8.3444,
+        "BUJUR": 114.8274,
+        "DESA": "Desa BB Agung",
+        "KECAMATAN": "Negara",
+        "KAB/KOTA": "Jembrana",
+        "PROVINSI": "Bali"
+      },
+      "geometry": { "type": "Point", "coordinates": [114.8274, -8.3444] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 15,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1007",
+        "LINTANG": -4.945933,
+        "BUJUR": 119.578793,
+        "DESA": "Baju Bodoa ",
+        "KECAMATAN": "Maros Baru",
+        "KAB/KOTA": "Maros",
+        "PROVINSI": "Sulawesi Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [119.578793, -4.945933] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 16,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1023",
+        "LINTANG": 1.4983333333333333,
+        "BUJUR": 124.89833333333334,
+        "DESA": "Paniki Atas",
+        "KECAMATAN": "Talawaan",
+        "KAB/KOTA": "Minahasa Utara",
+        "PROVINSI": "Sulawesi Utara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [124.898333333333341, 1.498333333333333]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 17,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1025",
+        "LINTANG": -3.338809,
+        "BUJUR": 128.368445,
+        "DESA": "Kairatu",
+        "KECAMATAN": "Kairatu",
+        "KAB/KOTA": "Seram Bagian Barat",
+        "PROVINSI": "Maluku"
+      },
+      "geometry": { "type": "Point", "coordinates": [128.368445, -3.338809] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 18,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1022",
+        "LINTANG": 0.55,
+        "BUJUR": 123.14,
+        "DESA": "Moutong",
+        "KECAMATAN": "Tilongkabila",
+        "KAB/KOTA": "Bone Bolango",
+        "PROVINSI": "Gorontalo"
+      },
+      "geometry": { "type": "Point", "coordinates": [123.14, 0.55] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 19,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1027",
+        "LINTANG": -4.056219,
+        "BUJUR": 122.449164,
+        "DESA": "Ronooha",
+        "KECAMATAN": "Ranomeeto",
+        "KAB/KOTA": "Konawe Selatan",
+        "PROVINSI": "Sulawesi Tenggara"
+      },
+      "geometry": { "type": "Point", "coordinates": [122.449164, -4.056219] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 20,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1018",
+        "LINTANG": -2.5925,
+        "BUJUR": 140.1678,
+        "DESA": "Kwase",
+        "KECAMATAN": "Nimboran",
+        "KAB/KOTA": "Jayapura",
+        "PROVINSI": "Papua"
+      },
+      "geometry": { "type": "Point", "coordinates": [140.1678, -2.5925] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 21,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1019",
+        "LINTANG": -1.479,
+        "BUJUR": 134.138,
+        "DESA": "Ransiki",
+        "KECAMATAN": "Ransiki",
+        "KAB/KOTA": "Manokwari Selatan",
+        "PROVINSI": "Papua Barat"
+      },
+      "geometry": { "type": "Point", "coordinates": [134.138, -1.479] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 22,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1021",
+        "LINTANG": -8.38709,
+        "BUJUR": 140.5165,
+        "DESA": "Garsa Mulya",
+        "KECAMATAN": "Tanah Miring",
+        "KAB/KOTA": "Merauke",
+        "PROVINSI": "Papua Selatan"
+      },
+      "geometry": { "type": "Point", "coordinates": [140.5165, -8.38709] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 23,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1026",
+        "LINTANG": 0.407528,
+        "BUJUR": 101.21725,
+        "DESA": "Kuapan",
+        "KECAMATAN": "Tambang",
+        "KAB/KOTA": "Kampar",
+        "PROVINSI": "Riau"
+      },
+      "geometry": { "type": "Point", "coordinates": [101.21725, 0.407528] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 24,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1016",
+        "LINTANG": -3.864852,
+        "BUJUR": 102.312128,
+        "DESA": "Kandang",
+        "KECAMATAN": "Kampung Melayu",
+        "KAB/KOTA": "Kota Bengkulu",
+        "PROVINSI": "Bengkulu"
+      },
+      "geometry": { "type": "Point", "coordinates": [102.312128, -3.864852] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 25,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1017",
+        "LINTANG": -5.17226,
+        "BUJUR": 105.18037,
+        "DESA": "Sidobasuki",
+        "KECAMATAN": "Tegineneng",
+        "KAB/KOTA": "Pesawaran",
+        "PROVINSI": "Lampung"
+      },
+      "geometry": { "type": "Point", "coordinates": [105.18037, -5.17226] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 26,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1024",
+        "LINTANG": -2.5233,
+        "BUJUR": 106.4167,
+        "DESA": "Koba",
+        "KECAMATAN": "Koba",
+        "KAB/KOTA": "Bangka Tengah",
+        "PROVINSI": "Kepulauan Bangka Belitung"
+      },
+      "geometry": { "type": "Point", "coordinates": [106.4167, -2.5233] }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NO": 27,
+        "JARINGAN PENGAMATAN": "Soil Moisture",
+        "NO STASIUN": "STM1020",
+        "LINTANG": -10.139,
+        "BUJUR": 123.6669,
+        "DESA": "Lasiana",
+        "KECAMATAN": "Kelapa Lima",
+        "KAB/KOTA": "Kota Kupang",
+        "PROVINSI": "Nusa Tenggara Timur"
+      },
+      "geometry": { "type": "Point", "coordinates": [123.6669, -10.139] }
+    }
+  ]
+}
