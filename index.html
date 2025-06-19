@@ -11,10 +11,12 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+    <!-- JUDUL PETA -->
     <h1 id="judulPeta" style="text-align: center">
       Peta Jaringan Peralatan Observasi di Indonesia
     </h1>
 
+    <!-- TOMBOL FILTER -->
     <div class="controls">
       <label>Filter Provinsi:</label>
       <select id="provinsiFilter" onchange="applyFilters()">
@@ -33,12 +35,15 @@
         <option value="SOIL">SOIL</option>
       </select>
     </div>
-    <div id="summary" class="controls"></div>
 
+    <!-- PETA -->
     <div id="map">
       <div id="legend"></div>
     </div>
     <!-- <div id="legend"></div> -->
+
+    <!-- SUMMARY TABLE -->
+    <div id="summary" class="controls"></div>
 
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
     <script src="script.js"></script>

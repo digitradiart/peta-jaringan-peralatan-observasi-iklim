@@ -17,6 +17,7 @@ body {
   max-height: 200px;
   overflow-y: auto;
   overflow-x: scroll;
+  margin-top: 20px;
 }
 #summary th,
 #summary td {
@@ -40,6 +41,7 @@ body {
   max-height: 100px;
   width: 150px;
   overflow-y: auto;
+  overflow-x: scroll;
   line-height: 1.4em;
   z-index: 1000;
   display: flex;

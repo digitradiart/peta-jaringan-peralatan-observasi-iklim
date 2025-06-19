@@ -1,8 +1,10 @@
+// LAYER PETA INDONESIA
 const map = L.map("map").setView([-2.5, 117], 5);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution: "© OpenStreetMap",
 }).addTo(map);
 
+// JENIS GEOJSON, ADA 7 JENIS JARINGAN
 const geojsonTypes = [
   "PHOBS",
   "ARG",
@@ -17,6 +19,7 @@ const provinsiSet = new Set();
 const provinsiColors = {};
 let provinsiIndex = 0;
 
+// WARNA UNTUK PROVINSI
 const colorPalette = [
   "#e6194b",
   "#3cb44b",
@@ -58,6 +61,7 @@ const colorPalette = [
   "#009688",
 ];
 
+// FUNGSI UNTUK MENDAPATKAN WARNA PROVINSI
 function getNewColor(provinsi) {
   const color = colorPalette[provinsiIndex % colorPalette.length];
   provinsiColors[provinsi] = color;
@@ -65,6 +69,7 @@ function getNewColor(provinsi) {
   return color;
 }
 
+// VARIABLES UNTUK SIMBOL
 const symbolMap = {
   PHOBS: "●",
   ARG: "▲",
@@ -75,6 +80,7 @@ const symbolMap = {
   SOIL: "▬",
 };
 
+// FUNGSI UNTUK MAPPING GEOJSON KE MARKER
 geojsonTypes.forEach((type) => {
   fetch(`geojson/${type.toLowerCase()}.geojson`)
     .then((res) => res.json())
@@ -102,11 +108,14 @@ geojsonTypes.forEach((type) => {
           iconSize: [14, 14],
         });
 
+        // POPUP MARKER
         const marker = L.marker([lat, lon], { icon }).bindPopup(`
           <b>Provinsi:</b> ${provinsi}<br>
           <b>Kab/Kota:</b> ${props["KAB/KOTA"]}<br>
+          <b>Kecamatan:</b> ${props["KECAMATAN"]}<br>
+          <b>Desa:</b> ${props["DESA"]}<br>
           <b>No Stasiun:</b> ${props["NO STASIUN"]}<br>
-          <b>Jenis:</b> ${type}
+          <b>Jaringan Pengamatan:</b> ${type}
         `);
 
         marker._provinsi = provinsi;
@@ -120,6 +129,7 @@ geojsonTypes.forEach((type) => {
     });
 });
 
+// EVENT LISTENER UNTUK FILTER
 function applyFilters() {
   const selectedProv = document.getElementById("provinsiFilter").value;
   const selectedJenis = document.getElementById("jenisFilter").value;
@@ -134,6 +144,7 @@ function applyFilters() {
   updateTitle();
 }
 
+// FUNGSI UNTUK UPDATE FILTER
 function updateTitle() {
   const jenis = document.getElementById("jenisFilter").value;
   const prov = document.getElementById("provinsiFilter").value;
@@ -145,6 +156,7 @@ function updateTitle() {
   document.getElementById("judulPeta").innerText = title;
 }
 
+// FUNGSI UNTUK UPDATE TABEL RINGKASAN
 function updateSummaryTable() {
   const counts = {};
   markers.forEach((m) => {
@@ -172,6 +184,7 @@ function updateSummaryTable() {
   document.getElementById("summary").innerHTML = html;
 }
 
+// FUNGSI UNTUK UPDATE LEGENDA
 function updateLegend() {
   let html = "<b>Simbol per Jenis Data:</b><br>";
   for (const type in symbolMap) {
