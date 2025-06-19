@@ -6,8 +6,8 @@ L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
 
 // Baca Data JSON Layer
 const colors = {
-  phobs: "red",
-  arg: "blue",
+  phobs: "gray",
+  arg: "red",
   aws: "green",
   aaws: "purple",
   asrs: "orange",
@@ -39,14 +39,14 @@ geojsonTypes.forEach((type) => {
         }
 
         const marker = L.circleMarker([lat, lon], {
-          radius: 4,
+          radius: 1,
           color: colors[type],
-          fillOpacity: 0.5,
+          fillOpacity: 0.3,
         }).bindPopup(`
-    <b>Jenis:</b> ${type}<br>
-    <b>No Stasiun:</b> ${props["NO STASIUN"]}<br>
-    <b>Kab/Kota:</b> ${props["KAB/KOTA"]}<br>
-    <b>Provinsi:</b> ${provinsi}
+          <b>Provinsi:</b> ${provinsi}
+          <b>Kab/Kota:</b> ${props["KAB/KOTA"]}<br>
+          <b>Jenis:</b> ${type}<br>
+          <b>No Stasiun:</b> ${props["NO STASIUN"]}<br>
   `);
 
         marker._provinsi = provinsi;
