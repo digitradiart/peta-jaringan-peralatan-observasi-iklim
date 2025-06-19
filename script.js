@@ -188,11 +188,11 @@ function updateSummaryTable() {
 function updateLegend() {
   let html = "<b>Simbol per Jenis Data:</b><br>";
   for (const type in symbolMap) {
-    html += `<div><span style='display:inline-block; width:16px; text-align:center;'>${symbolMap[type]}</span> ${type}</div>`;
+    html += `<div class="flex"><span style='display:inline-block; width:16px; text-align:center;'>${symbolMap[type]}</span> ${type}</div>`;
   }
   html += "<br><b>Simbol Warna per Provinsi:</b><br>";
   for (const prov in provinsiColors) {
-    html += `<div><span style='display:inline-block; width:12px; height:12px; background:${provinsiColors[prov]}; margin-right:4px;'></span> ${prov}</div>`;
+    html += `<div class="flex"><span style='display:inline-block; width:12px; height:12px; background:${provinsiColors[prov]}; margin-right:4px;'></span> ${prov}</div>`;
   }
   document.getElementById("legend").innerHTML = html;
 }
