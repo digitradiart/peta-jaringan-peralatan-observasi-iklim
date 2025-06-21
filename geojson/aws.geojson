@@ -3188,7 +3188,7 @@
         "DESA": "Kelapa",
         "KECAMATAN": "Kelapa",
         "KAB/KOTA": "Kab. Bangka Barat",
-        "PROVINSI": "Kepulauan Bangka Belitung"
+        "PROVINSI": "Kep. Bangka Belitung"
       },
       "geometry": { "type": "Point", "coordinates": [105.7009, -1.889633] }
     },
@@ -3203,7 +3203,7 @@
         "DESA": "Koba",
         "KECAMATAN": "Koba",
         "KAB/KOTA": "Kab. Bangka Tengah",
-        "PROVINSI": "Kepulauan Bangka Belitung"
+        "PROVINSI": "Kep. Bangka Belitung"
       },
       "geometry": { "type": "Point", "coordinates": [106.4224, -2.5183] }
     },
@@ -3218,7 +3218,7 @@
         "DESA": null,
         "KECAMATAN": "Belinyu",
         "KAB/KOTA": "Kab. Bangka",
-        "PROVINSI": "Kepulauan Bangka Belitung"
+        "PROVINSI": "Kep. Bangka Belitung"
       },
       "geometry": { "type": "Point", "coordinates": [105.7429, -1.630358] }
     },
@@ -3233,7 +3233,7 @@
         "DESA": "Dul",
         "KECAMATAN": "Pangkalan Baru",
         "KAB/KOTA": "Kota Pangkalpinang",
-        "PROVINSI": "Kepulauan Bangka Belitung"
+        "PROVINSI": "Kep. Bangka Belitung"
       },
       "geometry": { "type": "Point", "coordinates": [106.137057, -2.161514] }
     },
@@ -3248,7 +3248,7 @@
         "DESA": "Petaling",
         "KECAMATAN": "Mendo Barat",
         "KAB/KOTA": "Kab. Bangka",
-        "PROVINSI": "Kepulauan Bangka Belitung"
+        "PROVINSI": "Kep. Bangka Belitung"
       },
       "geometry": { "type": "Point", "coordinates": [106.0163, -2.11377] }
     },
@@ -3263,7 +3263,7 @@
         "DESA": "Teluk Sebung",
         "KECAMATAN": "Teluk Sebung",
         "KAB/KOTA": "Kab. Bintan (Kep.Riau)",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [104.4098, 1.18188] }
     },
@@ -3278,7 +3278,7 @@
         "DESA": "Batam",
         "KECAMATAN": "Batu Ampar",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [103.996741, 1.1648583] }
     },
@@ -3293,7 +3293,7 @@
         "DESA": "Teluk Tering",
         "KECAMATAN": "Batam Kota",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [104.041748, 1.133378] }
     },
@@ -3308,7 +3308,7 @@
         "DESA": null,
         "KECAMATAN": "Sei Beduk",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": {
         "type": "Point",
@@ -3326,7 +3326,7 @@
         "DESA": "Sembau",
         "KECAMATAN": "Nongsa",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [104.096086, 1.166893] }
     },
@@ -3341,7 +3341,7 @@
         "DESA": "Tanjung Uncang",
         "KECAMATAN": "Batu Aji",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [103.926467, 1.055323] }
     },
@@ -3356,7 +3356,7 @@
         "DESA": "Tanjung Paiyu",
         "KECAMATAN": "Sungai Beduk",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": {
         "type": "Point",
@@ -3374,7 +3374,7 @@
         "DESA": "Sijantung",
         "KECAMATAN": "Galang",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": {
         "type": "Point",
@@ -3392,7 +3392,7 @@
         "DESA": "Tanjung Riau",
         "KECAMATAN": "Sekupang",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [103.953595, 1.100491] }
     },
@@ -3407,7 +3407,7 @@
         "DESA": "Baloi Indah",
         "KECAMATAN": "Lubuk Baja",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [104.007887, 1.119524] }
     },
@@ -3422,7 +3422,7 @@
         "DESA": "Tanjung Sengkuang",
         "KECAMATAN": "Batu Ampar",
         "KAB/KOTA": "Kota Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": {
         "type": "Point",
@@ -3440,7 +3440,7 @@
         "DESA": "Pincang Kencana",
         "KECAMATAN": "Tanjug Pinang Timur",
         "KAB/KOTA": "Kota Tanjung Pinang",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [104.52857, 0.923199] }
     },
@@ -4436,7 +4436,7 @@
         "DESA": "Awabutu",
         "KECAMATAN": "Paniai Timur",
         "KAB/KOTA": "Kab. Paniai",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [136.38, -3.92688] }
     },
@@ -4481,7 +4481,7 @@
         "DESA": "Kwamki",
         "KECAMATAN": "Mimika Baru",
         "KAB/KOTA": "Kab. Mimika",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [136.89, -4.53] }
     },
@@ -4496,7 +4496,7 @@
         "DESA": "Rimba Jaya",
         "KECAMATAN": "Merauke",
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.4161, -8.520737] }
     },
@@ -4541,7 +4541,7 @@
         "DESA": "Margo",
         "KECAMATAN": "Wanggar",
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.40417, -3.38489] }
     },
@@ -4571,7 +4571,7 @@
         "DESA": "Klakublik",
         "KECAMATAN": "Sorong",
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.2677, -0.874536] }
     },
@@ -4601,7 +4601,7 @@
         "DESA": "sawo",
         "KECAMATAN": "Sorong",
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.266677, -0.888586] }
     },
@@ -4634,7 +4634,7 @@
         "DESA": "Sorong kota",
         "KECAMATAN": "Sorong Manoi",
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.2859, -0.890673] }
     },
@@ -4649,7 +4649,7 @@
         "DESA": "Mariayi",
         "KECAMATAN": "Distrik  Mariat ",
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.2571, -0.86448] }
     },

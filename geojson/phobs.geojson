@@ -71267,7 +71267,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.3181, -1.02083] }
     },
@@ -71282,7 +71282,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.33, -0.97] }
     },
@@ -71297,7 +71297,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.32, -0.953] }
     },
@@ -71312,7 +71312,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.2624, -1.1581] }
     },
@@ -71327,7 +71327,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.2897, -1.03944] }
     },
@@ -71342,7 +71342,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.3, -1.05] }
     },
@@ -71492,7 +71492,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [139.18103, -6.32995] }
     },
@@ -71507,7 +71507,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Boven Digoel",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.4232, -6.642] }
     },
@@ -71522,7 +71522,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.517, -8.387] }
     },
@@ -71537,7 +71537,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Jayawijaya",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Pegunungan"
       },
       "geometry": { "type": "Point", "coordinates": [138.95, -4.09] }
     },
@@ -71732,7 +71732,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab Pegunungan Bintang",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Pegunungan"
       },
       "geometry": { "type": "Point", "coordinates": [140.75836, -4.63842] }
     },
@@ -75617,7 +75617,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.38, -8.3] }
     },
@@ -75647,7 +75647,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.56737, -8.10049] }
     },
@@ -96962,7 +96962,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Raja Ampat",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [130.48504, -0.23712] }
     },
@@ -97007,7 +97007,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.285, -0.8909] }
     },
@@ -97022,7 +97022,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.26, -0.86] }
     },
@@ -97322,7 +97322,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [139.71585, -8.08854] }
     },
@@ -97337,7 +97337,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.44413, -7.22855] }
     },
@@ -101102,7 +101102,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.47, -8.41] }
     },
@@ -101117,7 +101117,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.5, -8.41] }
     },
@@ -101132,7 +101132,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.26786, -8.24303] }
     },
@@ -101147,7 +101147,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Asmat",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [138.25944, -5.67222] }
     },
@@ -102737,7 +102737,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.19439, -8.24417] }
     },
@@ -102872,7 +102872,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Jayawijaya",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Pegunungan"
       },
       "geometry": { "type": "Point", "coordinates": [138.93475, -4.07653] }
     },
@@ -103082,7 +103082,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.45972, -3.43139] }
     },
@@ -103097,7 +103097,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.732, -3.17114] }
     },
@@ -103112,7 +103112,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.74988, -3.16827] }
     },
@@ -103127,7 +103127,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.47636, -3.37947] }
     },
@@ -103142,7 +103142,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.5, -3.37] }
     },
@@ -103157,7 +103157,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Paniai",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [136.35, -3.83] }
     },
@@ -103187,7 +103187,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.47312, -3.37642] }
     },
@@ -103202,7 +103202,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.33795, -3.44883] }
     },
@@ -103217,7 +103217,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.36307, -3.4737] }
     },
@@ -103232,7 +103232,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.58167, -3.28062] }
     },
@@ -103247,7 +103247,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Jayawijaya",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Pegunungan"
       },
       "geometry": { "type": "Point", "coordinates": [138.9595, -3.97] }
     },
@@ -103352,7 +103352,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nabire",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [135.371, -3.4428] }
     },
@@ -104192,7 +104192,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.36, -8.25] }
     },
@@ -104207,7 +104207,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Mimika",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [136.89348, -4.53006] }
     },
@@ -104222,7 +104222,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Mimika",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [136.63156, -4.45022] }
     },
@@ -104237,7 +104237,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Asmat",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [138.64222, -5.82417] }
     },
@@ -105047,7 +105047,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.8, -8.18722] }
     },
@@ -105062,7 +105062,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Boven Digoel",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.31, -6.1] }
     },
@@ -108032,7 +108032,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.41568, -8.52019] }
     },
@@ -108077,7 +108077,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.32, -0.953] }
     },
@@ -108497,7 +108497,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [138.8346, -7.98605] }
     },
@@ -108512,7 +108512,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.9977, -8.41779] }
     },
@@ -108527,7 +108527,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.6628, -7.32521] }
     },
@@ -108542,7 +108542,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.12265, -8.18231] }
     },
@@ -108557,7 +108557,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.5917, -7.40594] }
     },
@@ -108572,7 +108572,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.2566, -8.3485] }
     },
@@ -108587,7 +108587,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Boven Digoel",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.70611, -5.87889] }
     },
@@ -109637,7 +109637,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Mappi",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [139.14908, -6.1253] }
     },
@@ -109652,7 +109652,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Mimika",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Tengah"
       },
       "geometry": { "type": "Point", "coordinates": [136.68911, -4.36289] }
     },
@@ -110057,7 +110057,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.55, -8.69] }
     },
@@ -110072,7 +110072,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.45, -7.97] }
     },
@@ -111992,7 +111992,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Boven Digoel",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.30528, -6.0866] }
     },
@@ -113132,7 +113132,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Sorong Selatan",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [132.23111, -1.49] }
     },
@@ -113147,7 +113147,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.29803, -0.87989] }
     },
@@ -113162,7 +113162,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.26972, -0.86972] }
     },
@@ -114272,7 +114272,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Mappi",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [139.31554, -6.52783] }
     },
@@ -114287,7 +114287,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.74, -7.82799] }
     },

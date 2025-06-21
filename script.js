@@ -160,18 +160,30 @@ function updateTitle() {
 // FUNGSI UNTUK UPDATE TABEL RINGKASAN
 function updateSummaryTable() {
   const counts = {};
+  const grandTotal = {};
+  let totalKeseluruhan = 0;
+
   markers.forEach((m) => {
     if (!map.hasLayer(m)) return;
     const prov = m._provinsi;
     const jenis = m._jenis;
+
     if (!counts[prov]) counts[prov] = {};
     if (!counts[prov][jenis]) counts[prov][jenis] = 0;
     counts[prov][jenis]++;
+
+    // Hitung grand total
+    if (!grandTotal[jenis]) grandTotal[jenis] = 0;
+    grandTotal[jenis]++;
+    totalKeseluruhan++;
   });
+
   let html =
-    "<h3>Ringkasan Data Terfilter</h3><table class='table table-striped table-hover'><tr><th>Nomor</th><th>Provinsi</th>";
+    "<h3 class='text-center'>Ringkasan Data Terfilter</h3><table class='table table-striped table-hover'><tr><th>Nomor</th><th>Provinsi</th>";
   geojsonTypes.forEach((j) => (html += `<th>${j}</th>`));
-  html += "<th>Total</th></tr>";
+  html += "<th>Jumlah</th></tr>";
+
+  // Isi baris untuk setiap provinsi
   for (const prov in counts) {
     let total = 0;
     let nomor = Object.keys(counts).indexOf(prov) + 1;
@@ -183,6 +195,15 @@ function updateSummaryTable() {
     });
     html += `<td>${total}</td></tr>`;
   }
+
+  // Tambahkan baris Grand Total
+  html += `<tr style="font-weight:bold; background:#eee;"><td colspan="2">Total Indonesia</td>`;
+  geojsonTypes.forEach((j) => {
+    const val = grandTotal[j] || 0;
+    html += `<td>${val}</td>`;
+  });
+  html += `<td>${totalKeseluruhan}</td></tr>`;
+
   html += "</table>";
   document.getElementById("summary").innerHTML = html;
 }

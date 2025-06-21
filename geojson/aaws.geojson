@@ -1136,7 +1136,7 @@
         "DESA": "Rias",
         "KECAMATAN": "Toboali",
         "KAB/KOTA": "Kab. Bangka Selatan",
-        "PROVINSI": "Kepulauan Bangka Belitung"
+        "PROVINSI": "Kep. Bangka Belitung"
       },
       "geometry": { "type": "Point", "coordinates": [106.440384, -2.968735] }
     },
@@ -1346,7 +1346,7 @@
         "DESA": "Garsa Mulya",
         "KECAMATAN": "Tanah Miring",
         "KAB/KOTA": "Kab. Merauke",
-        "PROVINSI": "Papua"
+        "PROVINSI": "Papua Selatan"
       },
       "geometry": { "type": "Point", "coordinates": [140.5165, -8.38709] }
     },

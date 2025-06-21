@@ -197,7 +197,7 @@
         "DESA": "Koba",
         "KECAMATAN": "Koba",
         "KAB/KOTA": "Bangka Tengah",
-        "PROVINSI": "Kepulauan Bangka Belitung"
+        "PROVINSI": "Kep. Bangka Belitung"
       },
       "geometry": { "type": "Point", "coordinates": [106.4167, -2.5233] }
     },
@@ -443,7 +443,7 @@
         "DESA": "Malaingkedi",
         "KECAMATAN": "Sorong Utara",
         "KAB/KOTA": "Kota Sorong",
-        "PROVINSI": "Papua Barat"
+        "PROVINSI": "Papua Barat Daya"
       },
       "geometry": { "type": "Point", "coordinates": [131.301, -0.981] }
     },
@@ -506,7 +506,7 @@
         "DESA": "Batu Besar",
         "KECAMATAN": "Nongsa",
         "KAB/KOTA": "Batam",
-        "PROVINSI": "Kepulauan Riau"
+        "PROVINSI": "Kep. Riau"
       },
       "geometry": { "type": "Point", "coordinates": [104.113799, 1.119101] }
     },
