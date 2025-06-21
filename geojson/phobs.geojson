@@ -6632,7 +6632,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.40411, 5.43905] }
     },
@@ -77252,7 +77252,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.37, 2.485] }
     },
@@ -78002,7 +78002,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.48248, 2.92574] }
     },
@@ -78017,7 +78017,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.31301, 3.13168] }
     },
@@ -78032,7 +78032,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.38, 3.03] }
     },
@@ -78047,7 +78047,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.96027, 3.59917] }
     },
@@ -78062,7 +78062,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.06362, 3.44713] }
     },
@@ -78077,7 +78077,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.12486, 3.32962] }
     },
@@ -78092,7 +78092,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.09322, 3.39791] }
     },
@@ -78107,7 +78107,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.17957, 3.2587] }
     },
@@ -78122,7 +78122,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.667, 2.892] }
     },
@@ -78137,7 +78137,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.29652, 3.16771] }
     },
@@ -78152,7 +78152,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.0221, 3.51168] }
     },
@@ -78167,7 +78167,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.371, 3.198] }
     },
@@ -78182,7 +78182,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.43, 3.23] }
     },
@@ -78197,7 +78197,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.53596, 2.88794] }
     },
@@ -78212,7 +78212,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.76429, 2.86545] }
     },
@@ -78227,7 +78227,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.835, 3.445] }
     },
@@ -78242,7 +78242,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.9235, 3.34501] }
     },
@@ -78257,7 +78257,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.85, 3.45] }
     },
@@ -78272,7 +78272,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.82, 3.49] }
     },
@@ -78287,7 +78287,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.79, 3.53] }
     },
@@ -78302,7 +78302,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.9642, 3.29773] }
     },
@@ -78317,7 +78317,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.631, 3.716] }
     },
@@ -78332,7 +78332,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.83, 3.5] }
     },
@@ -78347,7 +78347,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.87, 3.41] }
     },
@@ -78362,7 +78362,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.87763, 3.39379] }
     },
@@ -78377,7 +78377,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.87, 3.14] }
     },
@@ -78392,7 +78392,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.72976, 3.6104] }
     },
@@ -78407,7 +78407,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.85, 3.57647] }
     },
@@ -78422,7 +78422,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.8874, 3.4925] }
     },
@@ -78437,7 +78437,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.6531, 3.2983] }
     },
@@ -78452,7 +78452,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.71, 3.77656] }
     },
@@ -78467,7 +78467,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.7, 4.98] }
     },
@@ -78482,7 +78482,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.575, 5.067] }
     },
@@ -78497,7 +78497,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.7749, 4.9514] }
     },
@@ -78512,7 +78512,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.93193, 4.54462] }
     },
@@ -78527,7 +78527,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.53, 4.59] }
     },
@@ -78542,7 +78542,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Langsa",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.934, 4.484] }
     },
@@ -78557,7 +78557,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.89052, 4.82732] }
     },
@@ -78572,7 +78572,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.89607, 4.60019] }
     },
@@ -78587,7 +78587,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.54395, 5.09138] }
     },
@@ -78602,7 +78602,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.78, 4.81] }
     },
@@ -78617,7 +78617,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.51814, 5.05253] }
     },
@@ -78632,7 +78632,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.501, 5.168] }
     },
@@ -78647,7 +78647,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.59, 4.84] }
     },
@@ -78662,7 +78662,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.69, 4.85] }
     },
@@ -78677,7 +78677,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.84315, 4.88752] }
     },
@@ -78692,7 +78692,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.89403, 4.73842] }
     },
@@ -78707,7 +78707,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.92158, 4.66354] }
     },
@@ -78722,7 +78722,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.54, 4.29] }
     },
@@ -78737,7 +78737,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.768, 4.904] }
     },
@@ -78752,7 +78752,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.63, 4.64213] }
     },
@@ -78767,7 +78767,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.12419, 4.37946] }
     },
@@ -78782,7 +78782,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.7127, 4.70275] }
     },
@@ -78797,7 +78797,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.83648, 4.63634] }
     },
@@ -78812,7 +78812,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.80801, 4.59525] }
     },
@@ -78827,7 +78827,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.015, 4.586] }
     },
@@ -78842,7 +78842,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.73, 4.69] }
     },
@@ -78857,7 +78857,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.823, 4.655] }
     },
@@ -78872,7 +78872,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.796, 4.683] }
     },
@@ -78887,7 +78887,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.69486, 4.59988] }
     },
@@ -78902,7 +78902,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.87319, 4.60139] }
     },
@@ -78917,7 +78917,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.7768, 4.4162] }
     },
@@ -78932,7 +78932,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.76104, 4.37721] }
     },
@@ -78947,7 +78947,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.7337, 4.7462] }
     },
@@ -78962,7 +78962,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.64, 4.62] }
     },
@@ -78977,7 +78977,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.13929, 4.20207] }
     },
@@ -78992,7 +78992,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.16877, 4.23045] }
     },
@@ -79007,7 +79007,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.11086, 4.54837] }
     },
@@ -79022,7 +79022,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.0602, 4.41077] }
     },
@@ -79037,7 +79037,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.07, 4.21] }
     },
@@ -79052,7 +79052,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.09387, 4.30715] }
     },
@@ -79067,7 +79067,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.9591, 4.32122] }
     },
@@ -79082,7 +79082,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.25065, 4.38849] }
     },
@@ -79097,7 +79097,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.15767, 4.156] }
     },
@@ -79112,7 +79112,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.02125, 4.32489] }
     },
@@ -79127,7 +79127,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.09, 4.47] }
     },
@@ -79142,7 +79142,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.19843, 4.40675] }
     },
@@ -79157,7 +79157,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.27, 5.23] }
     },
@@ -79172,7 +79172,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.24, 5.473] }
     },
@@ -79187,7 +79187,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.56977, 5.36625] }
     },
@@ -79202,7 +79202,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.42087, 5.45749] }
     },
@@ -79217,7 +79217,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.33187, 5.49519] }
     },
@@ -79232,7 +79232,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.303, 5.5] }
     },
@@ -79247,7 +79247,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.27, 5.53302] }
     },
@@ -79262,7 +79262,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.51, 5.59094] }
     },
@@ -79277,7 +79277,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.35, 5.52] }
     },
@@ -79292,7 +79292,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.37668, 5.53665] }
     },
@@ -79307,7 +79307,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.12485, 5.67046] }
     },
@@ -79322,7 +79322,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.3973, 5.5884] }
     },
@@ -79337,7 +79337,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.7285, 5.4478] }
     },
@@ -79352,7 +79352,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.60126, 5.29846] }
     },
@@ -79367,7 +79367,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.50921, 5.3981] }
     },
@@ -79382,7 +79382,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.38777, 5.60011] }
     },
@@ -79397,7 +79397,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.25649, 5.38697] }
     },
@@ -79412,7 +79412,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.4241, 5.51416] }
     },
@@ -79427,7 +79427,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.91162, 5.34335] }
     },
@@ -79442,7 +79442,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.1327, 4.84633] }
     },
@@ -79457,7 +79457,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.0267, 5.24727] }
     },
@@ -79472,7 +79472,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.01857, 5.31158] }
     },
@@ -79487,7 +79487,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.9567, 5.367] }
     },
@@ -79502,7 +79502,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.93594, 5.37819] }
     },
@@ -79517,7 +79517,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.91347, 5.29225] }
     },
@@ -79532,7 +79532,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.82909, 5.52608] }
     },
@@ -79547,7 +79547,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.96, 5.28] }
     },
@@ -79562,7 +79562,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.96849, 5.27589] }
     },
@@ -79577,7 +79577,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.83222, 5.41765] }
     },
@@ -79592,7 +79592,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.96357, 5.30999] }
     },
@@ -79607,7 +79607,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.94177, 5.2542] }
     },
@@ -79622,7 +79622,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.997, 5.33] }
     },
@@ -79637,7 +79637,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.91644, 5.01231] }
     },
@@ -79652,7 +79652,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.95, 5.216] }
     },
@@ -79667,7 +79667,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.89, 5.232] }
     },
@@ -79682,7 +79682,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.99164, 5.25944] }
     },
@@ -79697,7 +79697,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.894, 5.372] }
     },
@@ -79712,7 +79712,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.041, 5.283] }
     },
@@ -79727,7 +79727,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.42876, 5.13068] }
     },
@@ -79742,7 +79742,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.01768, 5.24592] }
     },
@@ -79757,7 +79757,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.33926, 5.0595] }
     },
@@ -79772,7 +79772,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.29289, 5.02756] }
     },
@@ -79787,7 +79787,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.91471, 5.2411] }
     },
@@ -79802,7 +79802,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.20423, 5.06026] }
     },
@@ -79817,7 +79817,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.24998, 5.09273] }
     },
@@ -79832,7 +79832,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.18806, 5.11468] }
     },
@@ -79847,7 +79847,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.2641, 5.05936] }
     },
@@ -79862,7 +79862,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.88968, 5.13069] }
     },
@@ -79877,7 +79877,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.432, 4.95] }
     },
@@ -79892,7 +79892,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.501, 5.059] }
     },
@@ -79907,7 +79907,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.25677, 5.07257] }
     },
@@ -79922,7 +79922,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.107, 2.63] }
     },
@@ -79937,7 +79937,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.85952, 2.64763] }
     },
@@ -79952,7 +79952,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.2445, 2.4411] }
     },
@@ -79967,7 +79967,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.3257, 2.4089] }
     },
@@ -79982,7 +79982,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.45, 2.36] }
     },
@@ -79997,7 +79997,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.14, 2.63] }
     },
@@ -80012,7 +80012,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.91884, 2.83655] }
     },
@@ -80027,7 +80027,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.744, 2.824] }
     },
@@ -80042,7 +80042,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.38275, 2.3417] }
     },
@@ -80057,7 +80057,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.04, 2.45] }
     },
@@ -80072,7 +80072,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.85, 2.29] }
     },
@@ -80087,7 +80087,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.97475, 2.37263] }
     },
@@ -80102,7 +80102,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.93757, 2.27679] }
     },
@@ -80117,7 +80117,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.85, 2.47] }
     },
@@ -80132,7 +80132,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.03962, 2.4772] }
     },
@@ -80147,7 +80147,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.94, 2.53] }
     },
@@ -80162,7 +80162,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.711, 2.35187] }
     },
@@ -80177,7 +80177,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.36666, 5.19793] }
     },
@@ -80192,7 +80192,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.50132, 5.18656] }
     },
@@ -80207,7 +80207,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.59, 5.2] }
     },
@@ -80222,7 +80222,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.66624, 5.20483] }
     },
@@ -80237,7 +80237,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.7691, 5.19857] }
     },
@@ -80252,7 +80252,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.87227, 5.21507] }
     },
@@ -80267,7 +80267,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.89783, 5.22469] }
     },
@@ -80282,7 +80282,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.46178, 5.18564] }
     },
@@ -80297,7 +80297,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.71163, 5.11937] }
     },
@@ -80312,7 +80312,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.79846, 5.2503] }
     },
@@ -80327,7 +80327,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.41232, 5.19215] }
     },
@@ -80342,7 +80342,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.69308, 5.19511] }
     },
@@ -80357,7 +80357,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.8154, 5.15951] }
     },
@@ -80372,7 +80372,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.76709, 5.10748] }
     },
@@ -80387,7 +80387,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.83623, 5.21187] }
     },
@@ -80402,7 +80402,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.86069, 3.71584] }
     },
@@ -80417,7 +80417,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.90368, 3.66756] }
     },
@@ -80432,7 +80432,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.93, 3.62] }
     },
@@ -80447,7 +80447,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.83, 3.73] }
     },
@@ -80462,7 +80462,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.74434, 3.84598] }
     },
@@ -80477,7 +80477,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.69744, 3.90206] }
     },
@@ -80492,7 +80492,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.94773, 3.62793] }
     },
@@ -80507,7 +80507,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.371, 3.945] }
     },
@@ -80522,7 +80522,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.28, 4.018] }
     },
@@ -80537,7 +80537,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.29, 4.082] }
     },
@@ -80552,7 +80552,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.07628, 4.05492] }
     },
@@ -80567,7 +80567,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.58, 4.09] }
     },
@@ -80582,7 +80582,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.31, 4.0] }
     },
@@ -80597,7 +80597,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.2, 4.18] }
     },
@@ -80612,7 +80612,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.79156, 4.47508] }
     },
@@ -80627,7 +80627,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.66125, 4.58689] }
     },
@@ -80642,7 +80642,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.8514, 4.86247] }
     },
@@ -80657,7 +80657,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.54507, 4.67125] }
     },
@@ -80672,7 +80672,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.82, 2.43] }
     },
@@ -80687,7 +80687,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.45, 4.87] }
     },
@@ -81017,7 +81017,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.7, 4.55945] }
     },
@@ -81032,7 +81032,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.45962, 4.79731] }
     },
@@ -81047,7 +81047,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.34386, 5.11217] }
     },
@@ -81062,7 +81062,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.88699, 4.49997] }
     },
@@ -81077,7 +81077,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.4127, 5.03691] }
     },
@@ -81092,7 +81092,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.27545, 4.08656] }
     },
@@ -81107,7 +81107,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.22838, 4.07945] }
     },
@@ -81122,7 +81122,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.31, 4.23] }
     },
@@ -81137,7 +81137,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.41906, 4.24888] }
     },
@@ -81152,7 +81152,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.52, 3.99] }
     },
@@ -81167,7 +81167,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.46, 3.93] }
     },
@@ -81182,7 +81182,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.03, 4.39] }
     },
@@ -81197,7 +81197,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.17, 4.43] }
     },
@@ -81212,7 +81212,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.06398, 4.30322] }
     },
@@ -81227,7 +81227,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.17537, 4.34634] }
     },
@@ -81242,7 +81242,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.05, 4.29] }
     },
@@ -81257,7 +81257,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.98, 4.07] }
     },
@@ -81272,7 +81272,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.94728, 4.16759] }
     },
@@ -81287,7 +81287,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.08309, 4.3022] }
     },
@@ -81302,7 +81302,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.1119, 4.41308] }
     },
@@ -81317,7 +81317,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.94287, 4.26951] }
     },
@@ -81332,7 +81332,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.96, 4.12] }
     },
@@ -81347,7 +81347,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.9251, 4.3423] }
     },
@@ -81362,7 +81362,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.7454, 4.86] }
     },
@@ -81377,7 +81377,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.76, 4.84] }
     },
@@ -81392,7 +81392,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.9178, 4.82645] }
     },
@@ -81407,7 +81407,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.207, 4.67] }
     },
@@ -81422,7 +81422,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.896, 4.7531] }
     },
@@ -81437,7 +81437,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.85362, 4.72418] }
     },
@@ -81452,7 +81452,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.8, 4.72] }
     },
@@ -81467,7 +81467,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.75003, 4.75273] }
     },
@@ -81482,7 +81482,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.92, 4.77421] }
     },
@@ -81497,7 +81497,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.03, 4.76736] }
     },
@@ -81512,7 +81512,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.76, 4.81201] }
     },
@@ -81527,7 +81527,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.247, 5.232] }
     },
@@ -81542,7 +81542,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.29, 5.23] }
     },
@@ -81557,7 +81557,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.32, 5.22] }
     },
@@ -81572,7 +81572,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.32486, 5.18499] }
     },
@@ -81587,7 +81587,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.26, 5.24] }
     },
@@ -81602,7 +81602,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.11, 5.28] }
     },
@@ -81617,7 +81617,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.1844, 5.2582] }
     },
@@ -81632,7 +81632,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.31965, 5.54582] }
     },
@@ -81647,7 +81647,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.33008, 5.5599] }
     },
@@ -81662,7 +81662,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.2869, 5.5429] }
     },
@@ -81677,7 +81677,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.35, 5.58] }
     },
@@ -81692,7 +81692,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.33955, 5.54027] }
     },
@@ -81707,7 +81707,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.3416, 5.5715] }
     },
@@ -81722,7 +81722,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.3103, 5.52321] }
     },
@@ -81737,7 +81737,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.3, 5.535] }
     },
@@ -81752,7 +81752,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.35, 5.54] }
     },
@@ -81767,7 +81767,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sabang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.32, 5.85157] }
     },
@@ -81782,7 +81782,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sabang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.3281, 5.8898] }
     },
@@ -81797,7 +81797,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sabang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.34, 5.84188] }
     },
@@ -81812,7 +81812,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Langsa",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.00282, 4.45829] }
     },
@@ -81827,7 +81827,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Langsa",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.95087, 4.50709] }
     },
@@ -81842,7 +81842,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Langsa",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.0, 4.5] }
     },
@@ -81857,7 +81857,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Langsa",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.96, 4.467] }
     },
@@ -81872,7 +81872,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Subulussalamuu",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.98477, 2.65532] }
     },
@@ -81887,7 +81887,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Subulussalamuu",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.02001, 2.61134] }
     },
@@ -81902,7 +81902,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Subulussalamuu",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.87927, 2.66892] }
     },
@@ -81917,7 +81917,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Subulussalamuu",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.979, 2.712] }
     },
@@ -81932,7 +81932,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Subulussalamuu",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.987, 2.642] }
     },
@@ -101312,7 +101312,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.56333, 5.37025] }
     },
@@ -101327,7 +101327,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.46479, 5.40368] }
     },
@@ -101342,7 +101342,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.43732, 4.81784] }
     },
@@ -101357,7 +101357,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.8836, 4.26483] }
     },
@@ -101372,7 +101372,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.93623, 4.18493] }
     },
@@ -101387,7 +101387,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.76107, 4.95245] }
     },
@@ -101402,7 +101402,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.65054, 5.03305] }
     },
@@ -101417,7 +101417,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.23, 4.99] }
     },
@@ -101432,7 +101432,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.12, 5.09] }
     },
@@ -101447,7 +101447,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.90066, 4.75137] }
     },
@@ -101462,7 +101462,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Lhokseumawe",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.13, 5.2] }
     },
@@ -101477,7 +101477,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.42532, 4.25541] }
     },
@@ -101492,7 +101492,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.2934, 4.07098] }
     },
@@ -101507,7 +101507,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.24785, 4.04896] }
     },
@@ -101522,7 +101522,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.83284, 4.26709] }
     },
@@ -101537,7 +101537,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.51091, 4.46278] }
     },
@@ -101552,7 +101552,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.213, 4.113] }
     },
@@ -105632,7 +105632,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.13283, 4.52093] }
     },
@@ -105647,7 +105647,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.20003, 4.31131] }
     },
@@ -105662,7 +105662,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.16491, 4.22752] }
     },
@@ -105677,7 +105677,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.93697, 3.58942] }
     },
@@ -105692,7 +105692,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.84832, 3.749] }
     },
@@ -105707,7 +105707,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.40561, 5.4997] }
     },
@@ -105722,7 +105722,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.42, 5.42] }
     },
@@ -105737,7 +105737,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.4041, 5.4391] }
     },
@@ -105752,7 +105752,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.66519, 5.35738] }
     },
@@ -105767,7 +105767,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.73, 5.45] }
     },
@@ -105782,7 +105782,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.37, 5.46731] }
     },
@@ -105797,7 +105797,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.36989, 5.53603] }
     },
@@ -105812,7 +105812,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.45833, 5.422] }
     },
@@ -105827,7 +105827,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.49589, 5.36361] }
     },
@@ -105842,7 +105842,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.365, 5.05003] }
     },
@@ -105857,7 +105857,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.51527, 2.99927] }
     },
@@ -105872,7 +105872,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.98029, 2.4185] }
     },
@@ -105887,7 +105887,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.01111, 4.34222] }
     },
@@ -105902,7 +105902,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.05483, 4.16826] }
     },
@@ -105917,7 +105917,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.95225, 4.16417] }
     },
@@ -105932,7 +105932,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.72867, 4.60835] }
     },
@@ -105947,7 +105947,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.61631, 3.7405] }
     },
@@ -105962,7 +105962,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.72, 4.91] }
     },
@@ -105977,7 +105977,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.6803, 4.63493] }
     },
@@ -105992,7 +105992,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.36473, 5.11911] }
     },
@@ -106007,7 +106007,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.96654, 5.19357] }
     },
@@ -106022,7 +106022,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.354, 4.955] }
     },
@@ -106037,7 +106037,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.37, 4.928] }
     },
@@ -106052,7 +106052,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.29945, 5.16223] }
     },
@@ -106067,7 +106067,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.01349, 5.16792] }
     },
@@ -106082,7 +106082,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.94248, 5.07538] }
     },
@@ -106097,7 +106097,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.29, 5.01] }
     },
@@ -106112,7 +106112,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.22666, 5.13917] }
     },
@@ -106127,7 +106127,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.44, 5.2] }
     },
@@ -106142,7 +106142,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.47, 5.09] }
     },
@@ -106157,7 +106157,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.24741, 5.13018] }
     },
@@ -106172,7 +106172,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.47912, 4.90393] }
     },
@@ -106187,7 +106187,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.4591, 5.127] }
     },
@@ -106202,7 +106202,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.343, 5.566] }
     },
@@ -106217,7 +106217,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Banda Aceh",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.336, 5.539] }
     },
@@ -106232,7 +106232,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.3223, 3.99798] }
     },
@@ -106247,7 +106247,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Langsa",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.95786, 4.47148] }
     },
@@ -106262,7 +106262,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Subulussalamuu",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.87427, 2.81428] }
     },
@@ -106277,7 +106277,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Lhokseumawe",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.15007, 5.1305] }
     },
@@ -106292,7 +106292,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.56728, 3.97031] }
     },
@@ -106307,7 +106307,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.26, 4.059] }
     },
@@ -106322,7 +106322,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.34037, 4.25881] }
     },
@@ -106337,7 +106337,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.588, 4.054] }
     },
@@ -106352,7 +106352,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.653, 3.973] }
     },
@@ -106367,7 +106367,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.95132, 5.3182] }
     },
@@ -106382,7 +106382,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.91185, 5.2338] }
     },
@@ -106397,7 +106397,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.85882, 5.22047] }
     },
@@ -106412,7 +106412,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.89564, 5.10047] }
     },
@@ -106427,7 +106427,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.9296, 5.269] }
     },
@@ -106442,7 +106442,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.24748, 5.23469] }
     },
@@ -106457,7 +106457,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.2391, 5.17656] }
     },
@@ -106472,7 +106472,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sabang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.32014, 5.84442] }
     },
@@ -109937,7 +109937,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.6159, 5.49809] }
     },
@@ -110477,7 +110477,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.87882, 4.84105] }
     },
@@ -110537,7 +110537,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.11271, 4.98967] }
     },
@@ -110912,7 +110912,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.5113, 5.54135] }
     },
@@ -110927,7 +110927,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.41702, 5.52244] }
     },
@@ -110942,7 +110942,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.94713, 5.2286] }
     },
@@ -110957,7 +110957,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Sabang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.33785, 5.87654] }
     },
@@ -112442,7 +112442,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.28613, 3.17356] }
     },
@@ -112457,7 +112457,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.59152, 4.91638] }
     },
@@ -112472,7 +112472,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.62, 5.01] }
     },
@@ -112487,7 +112487,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.09, 4.47] }
     },
@@ -112502,7 +112502,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.883, 5.427] }
     },
@@ -112517,7 +112517,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.069, 5.098] }
     },
@@ -112532,7 +112532,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.40936, 2.3322] }
     },
@@ -112547,7 +112547,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Bireuen",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.72679, 5.22269] }
     },
@@ -112562,7 +112562,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.74428, 3.84592] }
     },
@@ -112577,7 +112577,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.0706, 4.08249] }
     },
@@ -112592,7 +112592,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Nagan Raya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.4, 4.096] }
     },
@@ -112607,7 +112607,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.98755, 4.11617] }
     },
@@ -112622,7 +112622,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.06472, 4.34222] }
     },
@@ -112637,7 +112637,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kota Lhokseumawe",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.082, 5.197] }
     },
@@ -113297,7 +113297,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.52583, 4.3975] }
     },
@@ -113312,7 +113312,7 @@
         "DESA": null,
         "KECAMATAN": null,
         "KAB/KOTA": "Kab. Pidie Jaya",
-        "PROVINSI": "Nanggroe Aceh Darussalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.1284, 5.24421] }
     },

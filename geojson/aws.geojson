@@ -3848,7 +3848,7 @@
         "DESA": "Lampanah Ranjo",
         "KECAMATAN": "Indrapuri",
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.464909, 5.40358] }
     },
@@ -3863,7 +3863,7 @@
         "DESA": "Paloh Teungoh",
         "KECAMATAN": "Keumala",
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.89978, 5.23193] }
     },
@@ -3878,7 +3878,7 @@
         "DESA": "Kota bawah barat",
         "KECAMATAN": "sukakarya",
         "KAB/KOTA": "Kota Saban",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.31938, 5.889736] }
     },
@@ -3893,7 +3893,7 @@
         "DESA": null,
         "KECAMATAN": "tamiang hulu",
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.947282, 4.167592] }
     },
@@ -3908,7 +3908,7 @@
         "DESA": null,
         "KECAMATAN": "Kreund sabee",
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.618912, 4.621232] }
     },
@@ -3923,7 +3923,7 @@
         "DESA": "Cot Mancang",
         "KECAMATAN": "Kuto Baro",
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.4171, 5.521809] }
     },
@@ -3938,7 +3938,7 @@
         "DESA": "Bale Atu",
         "KECAMATAN": "Bukit",
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.84668, 4.724192] }
     },
@@ -3953,7 +3953,7 @@
         "DESA": "Tanah Merah",
         "KECAMATAN": "Singkil ",
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.95536, 2.276053] }
     },
@@ -3968,7 +3968,7 @@
         "DESA": "Pondok Gajah",
         "KECAMATAN": "Bandar",
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.896438, 4.753208] }
     },

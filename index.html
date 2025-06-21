@@ -4,48 +4,70 @@
     <meta charset="utf-8" />
     <title>Peta Jaringan Peralatan Observasi Iklim</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Peta Jaringan Peralatan Observasi Iklim di Indonesia"
+    />
+    <meta name="author" content="Ayu Agustina" />
+
+    <!-- Leaflet CSS -->
     <link
       rel="stylesheet"
       href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css"
     />
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr"
+      crossorigin="anonymous"
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
+    />
+    <!-- External CSS -->
     <link rel="stylesheet" href="style.css" />
   </head>
+
   <body>
-    <!-- JUDUL PETA -->
-    <h1 id="judulPeta" style="text-align: center">
-      Peta Jaringan Peralatan Observasi di Indonesia
-    </h1>
+    <div class="container">
+      <!-- JUDUL PETA -->
+      <h1 id="judulPeta" style="text-align: center">
+        Peta Jaringan Peralatan Observasi di Indonesia
+      </h1>
 
-    <!-- TOMBOL FILTER -->
-    <div class="controls">
-      <label>Filter Provinsi:</label>
-      <select id="provinsiFilter" onchange="applyFilters()">
-        <option value="">-- Semua Provinsi --</option>
-      </select>
+      <!-- TOMBOL FILTER -->
+      <div class="controls">
+        <label>Filter Provinsi:</label>
+        <select id="provinsiFilter" onchange="applyFilters()">
+          <option value="">-- Semua Provinsi --</option>
+        </select>
 
-      <label style="margin-left: 20px">Filter Jenis Data:</label>
-      <select id="jenisFilter" onchange="applyFilters()">
-        <option value="">-- Semua Jenis --</option>
-        <option value="PHOBS">PHOBS</option>
-        <option value="ARG">ARG</option>
-        <option value="AWS">AWS</option>
-        <option value="AAWS">AAWS</option>
-        <option value="ASRS">ASRS</option>
-        <option value="IKLIMMIKRO">IKLIMMIKRO</option>
-        <option value="SOIL">SOIL</option>
-      </select>
+        <label style="margin-left: 20px">Filter Jenis Data:</label>
+        <select id="jenisFilter" onchange="applyFilters()">
+          <option value="">-- Semua Jenis --</option>
+          <option value="PHOBS">PHOBS</option>
+          <option value="ARG">ARG</option>
+          <option value="AWS">AWS</option>
+          <option value="AAWS">AAWS</option>
+          <option value="ASRS">ASRS</option>
+          <option value="IKLIMMIKRO">IKLIMMIKRO</option>
+          <option value="SOIL">SOIL</option>
+        </select>
+      </div>
+
+      <!-- PETA -->
+      <div id="map">
+        <!-- <div id="legend"></div> -->
+      </div>
+      <div id="legend"></div>
+
+      <!-- SUMMARY TABLE -->
+      <div id="summary" class="controls"></div>
     </div>
 
-    <!-- PETA -->
-    <div id="map">
-      <!-- <div id="legend"></div> -->
-    </div>
-    <div id="legend"></div>
-
-    <!-- SUMMARY TABLE -->
-    <div id="summary" class="controls"></div>
-
-    <footer>
+    <footer class="text-center mt-4">
       Build with <a href="https://leafletjs.com/">Leaflet JS</a> by
       <a
         href="https://github.com/digitradiart/peta-jaringan-peralatan-observasi-iklim"
@@ -54,7 +76,16 @@
         >Ayu Agustina &copy;2025</a
       >
     </footer>
+
+    <!-- Bootstrap JS -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q"
+      crossorigin="anonymous"
+    ></script>
+    <!-- Leaflet JS -->
     <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    <!-- Javascript Code -->
     <script src="script.js"></script>
   </body>
 </html>

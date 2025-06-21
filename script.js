@@ -1,7 +1,8 @@
 // LAYER PETA INDONESIA
 const map = L.map("map").setView([-2.5, 117], 5);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
-  attribution: "© OpenStreetMap",
+  attribution:
+    "<a href='https://www.openstreetmap.org/#map=5/-2.55/118.02'>© OpenStreetMap</a> | <a href='https://github.com/' target='_blank'><i class='bi bi-github'></i></a>",
 }).addTo(map);
 
 // JENIS GEOJSON, ADA 7 JENIS JARINGAN
@@ -188,11 +189,13 @@ function updateSummaryTable() {
 function updateLegend() {
   let html = "<b>Simbol per Jenis Data:</b><br>";
   for (const type in symbolMap) {
-    html += `<div class="flex"><span style='display:inline-block; width:16px; text-align:center;'>${symbolMap[type]}</span> ${type}</div>`;
+    // html += `<div class="flex"><span style='display:inline-block; width:16px; text-align:center;'>${symbolMap[type]}</span> ${type}</div>`;
+    html += `<li>${symbolMap[type]} : ${type}</li>`;
   }
   html += "<br><b>Simbol Warna per Provinsi:</b><br>";
   for (const prov in provinsiColors) {
-    html += `<div class="flex"><span style='display:inline-block; width:12px; height:12px; background:${provinsiColors[prov]}; margin-right:4px;'></span> ${prov}</div>`;
+    // html += `<div class="flex"><span style='display:inline-block; width:12px; height:12px; background:${provinsiColors[prov]}; margin-right:4px;'></span> ${prov}</div>`;
+    html += `<li><div class="provcolor" style="display:inline-block; width:12px; height:12px; background:${provinsiColors[prov]}; margin-right:4px; display:flex; flex-direction: row;"></div>: ${prov}</li>`;
   }
   document.getElementById("legend").innerHTML = html;
 }

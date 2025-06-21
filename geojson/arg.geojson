@@ -6695,7 +6695,7 @@
         "DESA": "Tanoh manyang",
         "KECAMATAN": "Teunom",
         "KAB/KOTA": "Kab. Aceh Jaya",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.79156, 4.47508] }
     },
@@ -6710,7 +6710,7 @@
         "DESA": "Teupin gajah",
         "KECAMATAN": "Pasie Raja",
         "KAB/KOTA": "Kab. Aceh Selatan",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.3119289, 3.1342484] }
     },
@@ -6725,7 +6725,7 @@
         "DESA": "Lae oram",
         "KECAMATAN": "Simpang kiri",
         "KAB/KOTA": "Kota Subulussalam",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.998193, 2.658597] }
     },
@@ -6740,7 +6740,7 @@
         "DESA": "Siderejo",
         "KECAMATAN": "Gunung meriah",
         "KAB/KOTA": "Kab. Aceh Singkil",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.97392, 2.37415] }
     },
@@ -6755,7 +6755,7 @@
         "DESA": "Iboih",
         "KECAMATAN": "Suka Karya",
         "KAB/KOTA": "Kota Saban",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.267318, 5.854878] }
     },
@@ -6770,7 +6770,7 @@
         "DESA": "Pondok Kelapa",
         "KECAMATAN": "Langsa Baro",
         "KAB/KOTA": "Kota Langsa",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.937479, 4.492817] }
     },
@@ -6785,7 +6785,7 @@
         "DESA": "Cot Girek",
         "KECAMATAN": "Cot Girek",
         "KAB/KOTA": "Kab. Aceh Utara",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.370514, 4.919339] }
     },
@@ -6800,7 +6800,7 @@
         "DESA": "Kebun Medang Ara",
         "KECAMATAN": "Karang Baru",
         "KAB/KOTA": "Kab. Aceh Tamiang",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [98.064792, 4.342116] }
     },
@@ -6815,7 +6815,7 @@
         "DESA": "Titi Baro",
         "KECAMATAN": "Idi Rayeuk",
         "KAB/KOTA": "Kab. Aceh Timur",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.785654, 4.924452] }
     },
@@ -6830,7 +6830,7 @@
         "DESA": "Lukup Badak",
         "KECAMATAN": "Pegasing",
         "KAB/KOTA": "Kab. Aceh Tengah",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.808088, 4.595641] }
     },
@@ -6845,7 +6845,7 @@
         "DESA": "Suak Labu",
         "KECAMATAN": "Tangan-Tangan",
         "KAB/KOTA": "Kab. Aceh Barat Daya",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.90368, 3.66756] }
     },
@@ -6860,7 +6860,7 @@
         "DESA": "Lawe Bekung",
         "KECAMATAN": "Babul Makmur",
         "KAB/KOTA": "Kab. Aceh Tenggara",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.9642, 3.29773] }
     },
@@ -6875,7 +6875,7 @@
         "DESA": "Suak Buluh",
         "KECAMATAN": "Simeulue Timur",
         "KAB/KOTA": "Kab. Simeulue",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.37528, 2.44389] }
     },
@@ -6890,7 +6890,7 @@
         "DESA": "Saree",
         "KECAMATAN": "Lembah Seulawah",
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.71528, 5.43746] }
     },
@@ -6905,7 +6905,7 @@
         "DESA": null,
         "KECAMATAN": "bandar",
         "KAB/KOTA": "Kab. Bener Meriah",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.896356, 4.753169] }
     },
@@ -6920,7 +6920,7 @@
         "DESA": "Lampuyang",
         "KECAMATAN": "Pulo Aceh",
         "KAB/KOTA": "Kab. Aceh Besar",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.12485, 5.67046] }
     },
@@ -6935,7 +6935,7 @@
         "DESA": "Leupu",
         "KECAMATAN": "Geumpang",
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [96.132697, 4.846328] }
     },
@@ -6950,7 +6950,7 @@
         "DESA": "Gunyak",
         "KECAMATAN": "Blang Kejeren",
         "KAB/KOTA": "Kab. Gayo Lues",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [97.3223, 3.99798] }
     },
@@ -6965,7 +6965,7 @@
         "DESA": "Ujong Pie",
         "KECAMATAN": "Muara Tiga",
         "KAB/KOTA": "Kab. Pidie",
-        "PROVINSI": "Nanggroe Aceh Darusalam"
+        "PROVINSI": "Aceh"
       },
       "geometry": { "type": "Point", "coordinates": [95.829112, 5.526096] }
     },
