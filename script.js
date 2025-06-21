@@ -2,7 +2,7 @@
 const map = L.map("map").setView([-2.5, 117], 5);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
   attribution:
-    "<a href='https://www.openstreetmap.org/#map=5/-2.55/118.02'>© OpenStreetMap</a> | <a href='https://github.com/' target='_blank'><i class='bi bi-github'></i></a>",
+    "<a href='https://www.openstreetmap.org/#map=5/-2.55/118.02' target='_blank'>© OpenStreetMap</a>",
 }).addTo(map);
 
 // JENIS GEOJSON, ADA 7 JENIS JARINGAN
@@ -35,14 +35,14 @@ const colorPalette = [
   "#008080",
   "#e6beff",
   "#9a6324",
-  "#fffac8",
+  "#ac8",
   "#800000",
   "#aaffc3",
   "#808000",
   "#ffd8b1",
   "#000075",
   "#808080",
-  "#ffffff",
+  "#ff5400",
   "#000000",
   "#a83279",
   "#9c27b0",
@@ -75,10 +75,10 @@ const symbolMap = {
   PHOBS: "●",
   ARG: "▲",
   AWS: "■",
-  AAWS: "□",
-  ASRS: "▼",
+  AAWS: "★",
+  ASRS: "❇",
   IKLIMMIKRO: "◆",
-  SOIL: "▬",
+  SOIL: "♣",
 };
 
 // FUNGSI UNTUK MAPPING GEOJSON KE MARKER
@@ -168,12 +168,14 @@ function updateSummaryTable() {
     if (!counts[prov][jenis]) counts[prov][jenis] = 0;
     counts[prov][jenis]++;
   });
-  let html = "<h3>Ringkasan Data Terfilter</h3><table><tr><th>Provinsi</th>";
+  let html =
+    "<h3>Ringkasan Data Terfilter</h3><table class='table table-striped table-hover'><tr><th>Nomor</th><th>Provinsi</th>";
   geojsonTypes.forEach((j) => (html += `<th>${j}</th>`));
   html += "<th>Total</th></tr>";
   for (const prov in counts) {
     let total = 0;
-    html += `<tr><td>${prov}</td>`;
+    let nomor = Object.keys(counts).indexOf(prov) + 1;
+    html += `<tr><td>${nomor}</td><td>${prov}</td>`;
     geojsonTypes.forEach((j) => {
       const val = counts[prov][j] || 0;
       html += `<td>${val}</td>`;
@@ -189,12 +191,10 @@ function updateSummaryTable() {
 function updateLegend() {
   let html = "<b>Simbol per Jenis Data:</b><br>";
   for (const type in symbolMap) {
-    // html += `<div class="flex"><span style='display:inline-block; width:16px; text-align:center;'>${symbolMap[type]}</span> ${type}</div>`;
     html += `<li>${symbolMap[type]} : ${type}</li>`;
   }
   html += "<br><b>Simbol Warna per Provinsi:</b><br>";
   for (const prov in provinsiColors) {
-    // html += `<div class="flex"><span style='display:inline-block; width:12px; height:12px; background:${provinsiColors[prov]}; margin-right:4px;'></span> ${prov}</div>`;
     html += `<li><div class="provcolor" style="display:inline-block; width:12px; height:12px; background:${provinsiColors[prov]}; margin-right:4px; display:flex; flex-direction: row;"></div>: ${prov}</li>`;
   }
   document.getElementById("legend").innerHTML = html;
