@@ -1,3 +1,4 @@
+// Code by Ayu Agustina - Juni 2025
 // LAYER PETA INDONESIA
 const map = L.map("map").setView([-2.5, 117], 5);
 L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
